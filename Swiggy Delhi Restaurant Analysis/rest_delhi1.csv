@@ -1,0 +1,914 @@
+name,cuisine,location,rating,num_of_rating,price_for_two
+Momo Maker,"Snacks, Tandoor","CentraL Market, Lajpat Nagar",4.7,20+ ratings,₹ 200
+Moets Kulfi,"Desserts, Beverages","Defence colony market, Defence Colony",4.7,50+ ratings,₹ 200
+Behrouz Biryani - Royal & Safe,"Biryani, Mughlai","Near Metro Station, Shakarpur Khas",4.7,1K+ ratings,₹ 500
+Triveni Terrace Cafe,Indian,"Opposite FICCI Auditorium, Mandi House",4.7,50+ ratings,₹ 400
+Momo Guy,"Chinese, Tibetan","GTB Nagar, GTB Nagar",4.6,20+ ratings,₹ 200
+Saini Juice,Beverages,"Near Radhe Krishna Mandir, Gautam Nagar",4.6,100+ ratings,₹ 150
+Teavaro,"Beverages, Snacks","GTB Nagar, GTB Nagar",4.6,50+ ratings,₹ 400
+GANNU'S SHAKES AND SNACKS,"Snacks, Beverages","Laxmi Nagar, Shahdara",4.6,20+ ratings,₹ 200
+SABHARWAL AUNTY'S KITCHEN,Indian,"Ashok Vihar, Ashok Vihar",4.6,20+ ratings,₹ 350
+PUNIKAR'S Mumbai Street Food,Closes soonSouth Indian,"PANDAV NAGAR, Mayur Vihar",4.6,20+ ratings,₹ 150
+Choko La,"Bakery, Desserts","Defence Colony, Kotla Mubarakpur",4.6,50+ ratings,₹ 600
+The Old Delhi,"Mughlai, North Indian","Lajpat Nagar, Defence Colony",4.6,20+ ratings,₹ 400
+AKU'S - The Brrgrr Co.,"American, Beverages","South Extension, South Extension",4.6,50+ ratings,₹ 600
+Zoet Ice Cream and Desserts,"Desserts, Bakery","Maharani Bagh, Defence Colony",4.6,20+ ratings,₹ 300
+SANADIGE,"Indian, Coastal","Chanakyapuri, Chanakyapuri",4.6,20+ ratings,₹ 1500
+Suvidha Vegetarian (Old Delhi Original),Indian,"Daryaganj, Daryaganj",4.6,100+ ratings,₹ 300
+Salad Days,Salads,"Gole Market, Gole Market",4.6,100+ ratings,₹ 600
+Caffe Tonino,Italian,"PVR Plaza, Connaught Place",4.6,20+ ratings,₹ 1400
+Havmor Havfunn ice cream,"Ice Cream, Ice Cream Cakes","M Block CP, M Block CP",4.6,50+ ratings,₹ 200
+Natural Ice Cream,Ice Cream,"L Block,outer circle, Connaught Place",4.6,100+ ratings,₹ 150
+Kwality Walls Frozen Dessert and Ice Cream Shop,"Desserts, Ice Cream","Connaught Place, Connaught Place",4.6,50+ ratings,₹ 300
+Bawarchi (Gujranwala Town),"North Indian, Chinese","Gujranwala Town, Gujranwala Town",4.5,100+ ratings,₹ 400
+Downtown Delhi,"North Indian, Indian","Laxmi Nagar, Laxmi Nagar",4.5,20+ ratings,₹ 300
+Fabcafe By Fabindia,"North Indian, Healthy Food","Lajpat Nagar, Lajpat Nagar",4.5,100+ ratings,₹ 800
+Gopal Jee Ki Rasoi,"Indian, Thalis","Kirti Nagar, Kirti Nagar",4.5,50+ ratings,₹ 200
+Papacream,Desserts,"South Extension, South Extension",4.5,20+ ratings,₹ 350
+PAL CORNER,"Chinese, Fast Food","South Campus, South Campus",4.5,20+ ratings,₹ 250
+Large Pot,"North Indian, Snacks","Laxmi Nagar, Laxmi Nagar",4.5,50+ ratings,₹ 150
+Chimney Sizzler,"Chinese, Tibetan","Chankyapuri, Chanakyapuri",4.5,100+ ratings,₹ 500
+NIC Natural Ice Creams,"Ice Cream, Desserts","Bagh, Karol Bagh",4.5,500+ ratings,₹ 120
+Bismillah Kebab Point,"Opens next at 4:10 pm, todayNorth Indian","Old Delhi, Old Delhi",4.5,20+ ratings,₹ 150
+Jung Bahadur Kachori Wala (Old Delhi Original),Snacks,"Chandni Chowk, Chandni Chowk",4.5,50+ ratings,₹ 100
+Third Wave Coffee Roasters,"Beverages, Pizzas","Connaught Place, Connaught Place",4.5,20+ ratings,₹ 400
+Cinnabon & Auntie Anne's,Bakery,"SHIVAJI STADIUM METRO, Connaught Place",4.5,50+ ratings,₹ 500
+Theobroma,"Bakery, Desserts","Connaught Place, Connaught Place",4.5,100+ ratings,₹ 800
+Hotel Saravana Bhavan,South Indian,"Janpath Market, Connaught Place",4.5,1K+ ratings,₹ 550
+Raja Cafe,"Indian, North Indian","Laxmi Nagar, Krishna Nagar",4.4,20+ ratings,₹ 200
+Naga Pantry,"Naga, Chinese","Hauz Khas, Hauz Khas",4.4,20+ ratings,₹ 250
+Wichee,"Fast Food, Salads","GTB Nagar, GTB Nagar",4.4,50+ ratings,₹ 400
+Red Chilli,"North Indian, Chinese","Safdarjung Enclave, Safdarjung Enclave",4.4,20+ ratings,₹ 500
+Saladspoint,Salads,"Lajpat Nagar, Lajpat Nagar",4.4,100+ ratings,₹ 600
+Prince kitchen,"North Indian, Grill","Lajpat Nagar, Lajpat Nagar",4.4,20+ ratings,₹ 200
+Bihar Central,"Bihari, Desserts","Lajpat Nagar, Lajpat Nagar",4.4,100+ ratings,₹ 450
+Ramesh Namkeen Bhandar,North Indian,"Patel Nagar, Kirti Nagar",4.4,100+ ratings,₹ 300
+For God's Cake,"Bakery, Desserts","Mayur Vihar, Mayur Vihar",4.4,20+ ratings,₹ 350
+Moets OH BAO,"Chinese, Thai","Defence Colony, Defence Colony",4.4,20+ ratings,₹ 1200
+Miso - The Asian Kitchen,"Asian, Japanese","Laxmi Nagar, Laxmi Nagar",4.4,20+ ratings,₹ 600
+The waffle co.,"Desserts, Fast Food","Laxmi Nagar, Shakarpur Khas",4.4,100+ ratings,₹ 220
+Slay Coffee,"Beverages, Desserts","Near Metro Station, Shakarpur Khas",4.4,100+ ratings,₹ 200
+Mamagoto,"Chinese, Asian","Khan Market, Rabindra Nagar",4.4,100+ ratings,₹ 1100
+Standard Corner,Fast Food,"Rajinder Nagar, Rajinder Nagar",4.4,100+ ratings,₹ 100
+Bhaja Govindam,"South Indian, North Indian","Daryaganj, Connought Place",4.4,50+ ratings,₹ 600
+Cheesecake & co.,"Bakery, Desserts","Laxmi Nagar, Connaught Place",4.4,50+ ratings,₹ 300
+FaYian,Chinese,"Connaught Place, Connaught Place",4.4,20+ ratings,₹ 600
+Andhra Bhawan Canteen,"Andhra, South Indian","Khan Market, Khan Market, Connaught Place",4.4,100+ ratings,₹ 400
+Louis Burger,American,"Connaught Place, Connaught Place",4.4,100+ ratings,₹ 600
+Bistro 57,Beverages,"Connaught Place, Connaught Place",4.4,100+ ratings,₹ 300
+Rajasthali,"Rajasthani, Thalis","Middle Circle, Connaught Place",4.4,50+ ratings,₹ 300
+High on desserts,"Desserts, Beverages","Connaught Place, Connaught Place",4.4,100+ ratings,₹ 120
+Chili's American Grill & Bar,"American, Mexican","Connaught place, Connaught Place",4.4,100+ ratings,₹ 900
+Daryaganj - By the inventors of Butter Chicken and Dal Makhani,"Indian, North Indian","Connaught Place, Connaught Place",4.4,50+ ratings,₹ 1500
+CHINKY'S MOMOS-SHANGHAI FOODS,Fast Food,"Connaught Place, Connaught Place",4.4,20+ ratings,₹ 180
+Dunkin',"Beverages, Fast Food","K.G.Marg, Barakhamba",4.4,100+ ratings,₹ 250
+Dhaba Food,Indian,"Connaught Place, Barakhamba",4.4,100+ ratings,₹ 200
+CHINKY'S MOMOS-SHANGHAI FOODS,Fast Food,"Connaught Place, Connaught Place",4.4,20+ ratings,₹ 180
+Dhaba Food,Indian,"Connaught Place, Barakhamba",4.4,100+ ratings,₹ 200
+Dunkin',"Beverages, Fast Food","K.G.Marg, Barakhamba",4.4,100+ ratings,₹ 250
+McDonald's,"American, Fast Food","Delhi CP N-10, Connaught Place",4.4,100+ ratings,₹ 400
+Big Wong,"Chinese, Japanese","Paschim Vihar, Kirti Nagar",4.3,20+ ratings,₹ 900
+My Hundred Rupee Meal,North Indian,"LAJPAT NAGAR 2, Lajpat Nagar",4.3,500+ ratings,₹ 300
+SHAKE SAHAB,"Beverages, Desserts","Laxmi Nagar, Shahdara",4.3,20+ ratings,₹ 200
+Miami Waffles & Jawbreakers,"Waffle, Desserts","GTB Nagar, GTB Nagar",4.3,20+ ratings,₹ 200
+CHAWLA'S JUNCTION,"Indian, Beverages","Laxmi Nagar, Krishna Nagar",4.3,20+ ratings,₹ 300
+Mad Over Donuts,"Desserts, Sweets","Jal Vihar Road, Lajpat Nagar",4.3,100+ ratings,₹ 200
+Dum Biryani By Kilos,Biryani,"Laxmi Nagar, Laxmi Nagar",4.3,20+ ratings,₹ 150
+Prince Momo Point,Closes soonChinese,"Hudson lane, Gtb Nagar",4.3,20+ ratings,₹ 200
+Zaika Muradabadi Chicken Restaurant,"Biryani, Fast Food","Lajpat Nagar, Lajpat Nagar",4.3,20+ ratings,₹ 250
+The Pasta Project,"Pastas, Italian","Lajpat Nagar, Lajpat Nagar",4.3,50+ ratings,₹ 450
+Baba's,North Indian,"Greater Kailash 2, Lajpat Nagar",4.3,50+ ratings,₹ 800
+Oriental Mom,"Asian, Chinese","Mayur Vihar, Patparganj",4.3,100+ ratings,₹ 600
+Caterspoint,"Italian, Indian","Lajpat Nagar, Lajpat Nagar",4.3,500+ ratings,₹ 600
+Indian Masala Kitchen,"North Indian, Mughlai","South Extension, Defence Colony",4.3,20+ ratings,₹ 300
+Fat Wrap Fat Roll,"Snacks, Beverages","Lajpat Nagar, Lajpat Nagar",4.3,20+ ratings,₹ 400
+The Salt Cafe Kitchen & Bar,"North Indian, Chinese","Preet Vihar, Nirman Vihar",4.3,100+ ratings,₹ 1000
+Greenit,"Healthy Food, Salads","South Extension, South Extension",4.3,500+ ratings,₹ 400
+Moolchand Paratha (Moolchand Metro),"North Indian, Snacks","Moolchand Meetro Station, Lajpat Nagar",4.3,1K+ ratings,₹ 200
+Concept,"North Indian, Fast Food","Lajpat Nagar, Lajpat Nagar",4.3,1K+ ratings,₹ 300
+Onlinecake.in,Bakery,"Laxmi Nagar, Laxmi Nagar",4.3,20+ ratings,₹ 500
+Hishi Cafe,"Snacks, American","Jangpura, Jangpura",4.3,1K+ ratings,₹ 200
+Delhi Biryani Hut,"Biryani, Mughlai","Lajpat Nagar, Double Storey",4.3,20+ ratings,₹ 200
+Sushiya,Japanese,"Laxmi Nagar, Laxmi Nagar",4.3,100+ ratings,₹ 1200
+Chanakya Bar Be Que,"Indian, Seafood","South Campus, Chanakyapuri",4.3,20+ ratings,₹ 600
+The cakewell Bakery,"Bakery, Desserts","Pillar 57, Laxmi Nagar",4.3,500+ ratings,₹ 400
+The Good Bowl,"North Indian, Punjabi","Laxmi Nagar, Shakarpur Khas",4.3,100+ ratings,₹ 400
+If Pizza,"Pizzas, Pastas","GANESH NAGAR, Pandav Nagar",4.3,100+ ratings,₹ 200
+Keventers - Milkshakes and Desserts,"Beverages, Ice Cream","East patel nagar, Patel Nagar",4.3,500+ ratings,₹ 300
+Subking,American,"Rajinder Nagar, Old Rajinder Nagar, Rajinder Nagar",4.3,500+ ratings,₹ 300
+L' Opera,"Bakery, Desserts","Khan Market, Khan Market",4.3,20+ ratings,₹ 600
+Camdin Patisserie and Boulangerie,"Bakery, Desserts","Rajinder place, Old Rajinder Nagar, Rajinder Nagar",4.3,100+ ratings,₹ 500
+Yum Yum Cha,Japanese,"Khan Market, Rabindra Nagar",4.3,50+ ratings,₹ 1800
+Mehtas (Old Delhi Original),"Street Food, Desserts","Daryaganj, Daryaganj",4.3,50+ ratings,₹ 150
+Giani's,"Ice Cream, Desserts","Pandara Road Market, Pandara Road",4.3,20+ ratings,₹ 200
+Shakahari Restaurant (Chawri Bazaar),"North Indian, Indian","Chawri bazar metro station, Chandni Chowk",4.3,100+ ratings,₹ 300
+BITTU KI BIRYANI,Biryani,"Karol Bagh, Karol Bagh",4.3,20+ ratings,₹ 225
+Bangla Sweet House,"Sweets, North Indian","Gole Market, Gole Market",4.3,100+ ratings,₹ 150
+Kaleva,"North Indian, Chinese","Gole Market, Connaught Place, Delhi",4.3,100+ ratings,₹ 300
+Cream Stone Ice Cream,"Ice Cream, Desserts","Paschim Vihar, Barakhamba",4.3,20+ ratings,₹ 200
+Ghee and Turmeric,"North Indian, Tandoor","Connaught Place 2 M Block, Connaught Place 2 M Block",4.3,100+ ratings,₹ 500
+Barista,"Beverages, Snacks","Regal Cinema Building, Connaught Place",4.3,20+ ratings,₹ 350
+Gulati (Pandara Road),Indian,"Khan Market, Pandara Road",4.3,100+ ratings,₹ 1000
+Khan Chacha,"North Indian, Kebabs","CP D block, Connaught Place",4.3,100+ ratings,₹ 850
+Haldiram's,North Indian,"Connaught Place, Connaught Place",4.3,100+ ratings,₹ 300
+Radhey Shyam Subhash Kumar Special Chole Bhature,North Indian,"paharganj, Ratan Lal Market, Paharganj",4.3,500+ ratings,₹ 150
+Burger King,American,"Inner Circle, Connaught Place",4.3,1K+ ratings,₹ 350
+Refections,"Juices, Beverages","Gautam Nagar, Gautam Nagar",4.2,100+ ratings,₹ 250
+SHRI HARI VEGETARIAN RESTAURANT,Indian,"Lajpat Nagar, Lajpat Nagar",4.2,100+ ratings,₹ 250
+Punjab Grill - Urban Punjabi Dhaba,"North Indian, Chinese","Bhikaji Cama Place, Rama Krishna Puram",4.2,50+ ratings,₹ 200
+Indian Culinaire ,"North Indian, Chinese","Bhikaji Cama Place, Rama Krishna Puram",4.2,20+ ratings,₹ 200
+Homefood Company,North Indian,"Block O, Lajpat Nagar II, Lajpat Nagar",4.2,1K+ ratings,₹ 250
+TukTuk - Asian on Wheels,"Chinese, Asian","South Extension, South Extension Ii",4.2,50+ ratings,₹ 700
+Juicy Lucy Burgers,"American, Fast Food","Kirti Nagar, Kirti Nagar",4.2,500+ ratings,₹ 400
+Oh! Pind,"North Indian, Chinese","GTB Nagar, GTB Nagar",4.2,50+ ratings,₹ 500
+Indus Flavour,"North Indian, Chinese","GTB Nagar, G T Karnal Road",4.2,100+ ratings,₹ 300
+Xero degrees,"North Indian, Chinese","GTB Nagar, Vijay Nagar",4.2,50+ ratings,₹ 250
+Flavours by ITC Hotels,"Indian, European","South Campus, Chanakyapuri",4.2,20+ ratings,₹ 1000
+Kulfi Bistro (Box Of Delights),"Ice Cream, Desserts","Lajpat Nagar, Hauz Khas",4.2,50+ ratings,₹ 150
+Bistro Shakes 97,"Beverages, Juices","vijay nagar, Kalyan Vihar",4.2,20+ ratings,₹ 150
+Cake Palace,"Bakery, Desserts","South Extension 2, South Extension 2",4.2,500+ ratings,₹ 400
+Bistro Shakes 97,"Beverages, Juices","vijay nagar, Kalyan Vihar",4.2,20+ ratings,₹ 150
+Cake Palace,"Bakery, Desserts","South Extension 2, South Extension 2",4.2,500+ ratings,₹ 400
+"Classic Juice,Shakes & Mocktails",Beverages,"Vijay nagar, Kalyan Vihar",4.2,50+ ratings,₹ 150
+Mazaar Restaurant,Afghani,"Lajpat Nagar, Lajpat Nagar",4.2,50+ ratings,₹ 800
+Shagun,"Chinese, Thai","Vijay Nagar, Hudson Lane",4.2,1K+ ratings,₹ 300
+Food Bus of India,"Fast Food, Italian","GTB Nagar, GTB Nagar",4.2,50+ ratings,₹ 500
+Bengal Sweet Corner,"Sweets, Snacks","Safdarjung Enclave, Safdarjung Enclave",4.2,1K+ ratings,₹ 350
+Hong Kong Express,"Chinese, Thai","DDA Market, Lajpat Nagar",4.2,100+ ratings,₹ 450
+Parantha On Call,North Indian,"Laxmi Nagar, Laxmi Nagar",4.2,20+ ratings,₹ 300
+The Spicy No.1,"Biryani, Chinese","west patel nagar, west patel nagar",4.2,20+ ratings,₹ 150
+Bombay Bhelpuri,Street Food,"South Extension, South Extension I",4.2,100+ ratings,₹ 100
+Relax Restaurant,"North Indian, Chinese","Lajpat Nagar Market, Lajpat Nagar",4.2,100+ ratings,₹ 400
+MoonMoon - Juicy Crustwiches,"American, Snacks","Lajpat Nagar, Lajpat Nagar",4.2,100+ ratings,₹ 300
+GUPTA'S VEGETARIAN PARADISE,"Chinese, North Indian","South Extension, South Extension",4.2,50+ ratings,₹ 250
+Raju Chat Bhandar (bharat nagar),"Chaat, Snacks","Ashok Vihar, Ashok Vihar",4.2,50+ ratings,₹ 400
+AZUKI - Soulful Asian Experience,Asian,"South Extension, South Extension",4.2,100+ ratings,₹ 300
+Badmash Biryani,"Biryani, North Indian","South Extension, South Extension",4.2,50+ ratings,₹ 300
+Mr Crust Bakers,"Desserts, Bakery","GTB Nagar, Vijay Nagar",4.2,1K+ ratings,₹ 400
+Shack Foods,"Fast Food, Continental","Kotla Mubarakpur, South Extension I",4.2,100+ ratings,₹ 250
+Rolls Mania,"North Indian, Beverages","Laxmi Nagar, Laxmi Nagar",4.2,50+ ratings,₹ 200
+Bengali Sweet Center,"North Indian, South Indian","South Extension, South Extension I",4.2,500+ ratings,₹ 450
+Nagpal Di Hatti (Gandhi Nagar),North Indian,"Geeta Colony, Geeta Colony",4.2,500+ ratings,₹ 200
+Artiste Handcrafted Ice Cream,"Ice Cream, Desserts","Lajpat Nagar, Lajpat Nagar",4.2,20+ ratings,₹ 300
+ANNA DOSA SOUTH INDIAN,"South Indian, North Indian","Lajpat Nagar, Lajpat Nagar",4.2,100+ ratings,₹ 200
+Moets Curry Leaf,"Mughlai, North Indian","Defence Colony, Defence Colony",4.2,100+ ratings,₹ 1200
+Mehfil,"Mughlai, Indian","Defence Colony, South Extension I",4.2,100+ ratings,₹ 500
+Defence Bakery,"Bakery, Desserts","Defence Colony, Defence Colony",4.2,100+ ratings,₹ 500
+Matka Cha Do Rusk by Cha Pata Tea,Fast Food,"Laxmi Nagar, Laxmi Nagar",4.2,20+ ratings,₹ 150
+SRI BALAJI ANNA DOSA,"South Indian, Indian","Lajpat Nagar, Lajpat Nagar",4.2,50+ ratings,₹ 200
+The Brooklyn Creamery - Healthy Ice Cream,"Desserts, Ice Cream","Laxmi Nagar, Shakarpur Khas",4.2,50+ ratings,₹ 200
+Rollz Karvaan,"Snacks, Fast Food","Malviya Nagar, PREET VIHAR",4.2,50+ ratings,₹ 300
+PRIYANSHI SOUTH INDIAN FAST FOODPOINT,"South Indian, North Indian","Laxmi Nagar, Laxmi Nagar",4.2,100+ ratings,₹ 200
+Nufeast,"Healthy Food, Salads","Karol Bagh, Rajinder Nagar",4.2,500+ ratings,₹ 200
+New Om Snacks,Street Food,"Karol Bagh, Krishna Nagar, Karol Bagh",4.2,100+ ratings,₹ 100
+Flavour Of Southvala Pvt Ltd,"South Indian, Chinese","Padam singh road, Karol Bagh",4.2,500+ ratings,₹ 300
+Grover Mithaivala (Rajinder Nagar),"Bakery, Sweets","Karol Bagh, Karol Bagh",4.2,500+ ratings,₹ 300
+Amma Mess,South Indian,"KAROL BAGH, Karol Bagh",4.2,100+ ratings,₹ 300
+Ichiban,"Chinese, Thai","Pandara Road Market, Pandara Road",4.2,50+ ratings,₹ 1500
+Annakoot by ISKCON Bangalore,"Sweets, South Indian","Connaught Place, Mandi House",4.2,20+ ratings,₹ 500
+Great Indian Khichdi by EatFit,"Home Food, Indian","Chuna Mandi Paharganj, Gole Market",4.2,100+ ratings,₹ 200
+Naivedyam,South Indian,"Connaught Place, Connaught Place",4.2,50+ ratings,₹ 300
+Minar Restaurant,Indian,"Connaught Place, Connaught Place",4.2,20+ ratings,₹ 1200
+Bijoli Grill,"North Indian, Chinese","Banga Bhawan, Mandi House",4.2,50+ ratings,₹ 500
+Royal restaurant,North Indian,"CP, Barakhamba",4.2,50+ ratings,₹ 400
+Chai Point,"Bakery, Beverages","Connaught Place, Connaught Place",4.2,500+ ratings,₹ 150
+Andhra Canteen,"South Indian, Biryani","Khan Market, Connaught Place",4.2,20+ ratings,₹ 250
+Baskin Robbins,"Desserts, Ice Cream","L-12 Connaught place, L-12 Connaught place",4.2,20+ ratings,₹ 250
+Mughlai Junction,"Mughlai, North Indian","Connaught Place, Connaught Place",4.2,100+ ratings,₹ 600
+Sandoz ,"Indian, Chinese","Connaught Place, Connaught Place",4.2,100+ ratings,₹ 350
+Burger Singh (Big Punjabi Burgers),"Snacks, Fast Food","Outer Circle, Connaught Place",4.2,100+ ratings,₹ 300
+Chaayos Chai+Snacks=Relax,"Bakery, Beverages","Chaayos C P - F Block, Connaught Place, Connaught Place",4.2,500+ ratings,₹ 250
+Taco Bell,Mexican,"Connaught Circus outer circle, Connaught Place",4.2,500+ ratings,₹ 300
+Creme N Crisp,"Desserts, Bakery","Gole Market, Gole Market",4.2,100+ ratings,₹ 400
+Biryani By Kilo,"Biryani, Mughlai","N block, Connaught Place",4.2,500+ ratings,₹ 700
+Hira Sweets,"North Indian, South Indian","Connaught Place, Connaught Place",4.2,1K+ ratings,₹ 600
+Bercos - If you love chinese,"Chinese, Thai","Middle Circle, Connaught Place",4.2,100+ ratings,₹ 600
+Biryani Blues,"Biryani, Hyderabadi","Scindia House, Connaught Place",4.2,500+ ratings,₹ 400
+Momos House,"Chinese, Thai","Gautam Nagar, Gautam Nagar",4.1,100+ ratings,₹ 200
+Vermaji Parathe Wale,North Indian,"GAUTAM NAGAR, Yusuf Sarai",4.1,100+ ratings,₹ 300
+Breakfast Point,Indian,"Bhagat Singh Road, Krishna Nagar",4.1,20+ ratings,₹ 150
+Chinese Daily,"Pan-Asian, Chinese","Kirti Nagar, Kirti Nagar Industrial Area, Kirti Nagar",4.1,100+ ratings,₹ 400
+Doner & Gyros,"Lebanese, Middle Eastern","GTB Nagar, GTB Nagar",4.1,100+ ratings,₹ 550
+Tikka Fatory,"Chinese, Snacks","Laxmi Nagar, Laxmi Nagar",4.1,100+ ratings,₹ 300
+Waffle Nation,"Desserts, Ice Cream","GTB Nagar, Vijay Nagar",4.1,100+ ratings,₹ 100
+Super Snacks ,"North Indian, Chinese","Laxmi Nagar, Ghondi Chowk",4.1,1K+ ratings,₹ 250
+Radhe Krishna Chole Bhature,"Opens next at 8:30 am, tomorrowNorth Indian","Geeta Colony, Krishna Nagar",4.1,100+ ratings,₹ 150
+Sialkot Vegetarian(Pyare Lal),North Indian,"Geeta Colony, Geeta Colony",4.1,100+ ratings,₹ 250
+Bite N Sip,"North Indian, Continental","BHIKAJI CAMA, Rama Krishna Puram",4.1,50+ ratings,₹ 250
+Fitchef,"Healthy Food, Salads","mangal bazaar, updated",4.1,100+ ratings,₹ 400
+Vip RDX Resto & Bar,North Indian,"Hauz Khas, Safdarjung Enclave",4.1,100+ ratings,₹ 350
+JAIN DHABA,"Tandoor, Indian","Laxmi Nagar, Shahdara",4.1,100+ ratings,₹ 200
+Wicked Waffles,"Desserts, Beverages","Preet Vihar, Preet Vihar",4.1,50+ ratings,₹ 200
+Gupta's Restaurant,North Indian,"South Extension 2, South Extension Ii",4.1,100+ ratings,₹ 300
+Pasta Unplugged,"Pastas, Italian","Lajpat Nagar, Lajpat Nagar",4.1,100+ ratings,₹ 500
+Chinese Hawker,"Pan-Asian, Chinese","Mayur Vihar, Patparganj",4.1,500+ ratings,₹ 300
+Arabian Delites,"Arabian, Lebanese","Defence Colony, Defence Colony",4.1,50+ ratings,₹ 200
+Qureshi's Kabab Corner,"Indian, Mughlai","Defence Colony, Lajpat Nagar",4.1,50+ ratings,₹ 500
+NYC.PIE ,"Pizzas, Italian","New Lajpat Nagar, Lajpat Nagar",4.1,50+ ratings,₹ 400
+Biryani Hazir ho,"Biryani, North Indian","South Extension, South Extension",4.1,50+ ratings,₹ 300
+Shivani Food House,"Indian, Snacks","Kotla mubarakpur, Kotla mubarakpur",4.1,50+ ratings,₹ 200
+NAGPAL HAVELI BLD,"Beverages, Salads","Lajpat Nagar, Lajpat Nagar",4.1,20+ ratings,₹ 200
+7th Heaven,"Bakery, Desserts","Mayur Vihar, Mayur Vihar",4.1,50+ ratings,₹ 250
+Firangi Bake,"Italian, Mexican","Kotla Mubarak Pur, South Extension I",4.1,20+ ratings,₹ 400
+Sweet Truth - Cake and Desserts,"Ice Cream, Bakery","Kotla Mubarak Pur, South Extension I",4.1,50+ ratings,₹ 450
+Amici Cafe,Italian,"South Extension, Defence Colony",4.1,20+ ratings,₹ 1500
+28 Capri Italy,Italian,"Lajpat Nagar, Defence Colony",4.1,50+ ratings,₹ 1000
+Love & Cheesecake,"Desserts, Bakery","South Extension, Defence Colony",4.1,20+ ratings,₹ 900
+Maddi sweet center,Sweets,"Hauz Khas, south extenison",4.1,50+ ratings,₹ 200
+Mehta Food Junction,North Indian,"Laxmi Nagar, Shakarpur Khas",4.1,100+ ratings,₹ 300
+Beliram Degchiwala (Jangpura),"Mughlai, North Indian","Jangpura, Jungpura Extension",4.1,20+ ratings,₹ 700
+Urban Vada Pav,Snacks,"Laxmi Nagar, Shakarpur Khas",4.1,100+ ratings,₹ 150
+Fujiya,"Chinese, Japanese","Malcha Marg, Chanakyapuri",4.1,50+ ratings,₹ 1500
+LunchBox - Meals and Thalis,"North Indian, Punjabi","Rajdner Place, Rajendra Place",4.1,100+ ratings,₹ 200
+Qd's,"North Indian, Chinese","Karol Bagh, Krishna Nagar, Karol Bagh",4.1,1K+ ratings,₹ 350
+South Indian Cafe,"South Indian, Chinese","Rajinder Nagar, New Rajinder Nagar",4.1,100+ ratings,₹ 200
+Aunty's Paranthe,"North Indian, Fast Food","Karol Bagh, Karol Bagh",4.1,100+ ratings,₹ 200
+Nagpal Chole Bhature,North Indian,"Karol Bagh, Karol Bagh",4.1,50+ ratings,₹ 250
+New Tera Hotel,North Indian,"Ghaffar Market, Arya Samaj Road, Karol Bagh",4.1,100+ ratings,₹ 150
+Changezi Chicken (Daryaganj),"Indian, Mughlai","Daryaganj, Daryaganj",4.1,50+ ratings,₹ 400
+Roshan Di Kulfi,"Street Food, Desserts","Karol Bagh, Beadonpura, Karol Bagh",4.1,500+ ratings,₹ 250
+Zaika (Daryaganj),"North Indian, Mughlai","Daryaganj, Daryaganj",4.1,100+ ratings,₹ 600
+Havemore Restaurant ,Indian,"Khan Market, India Gate",4.1,50+ ratings,₹ 1000
+Bikanervala Chandni Chowk,"Street Food, Sweets","Old Delhi, Old Delhi",4.1,100+ ratings,₹ 400
+Akash Deep,"North Indian, South Indian","Daryaganj, Daryaganj",4.1,100+ ratings,₹ 250
+Bangla sweet n spice,Indian,"Connaught Place, Gole Market",4.1,20+ ratings,₹ 300
+Nathu's PastryShop,"Bakery, Desserts","Bengali Market, Mandi House",4.1,100+ ratings,₹ 300
+Odeon Sweets,"Snacks, Indian","Gole Market, Connaught Place",4.1,20+ ratings,₹ 150
+Nizam's Kathi Kabab,"Mughlai, Kebabs","Connaught Place, Connaught Place",4.1,100+ ratings,₹ 500
+Cafe Delhi Heights,"Indian, Chinese","cannaught place, Connaught Place",4.1,50+ ratings,₹ 800
+Bangla Foods,"North Indian, Chinese","Gole Market, Gole Market",4.1,1K+ ratings,₹ 250
+Nando's,"Portuguese, African","Opp Rajiv Chowk Metro Station, Connaught Place",4.1,100+ ratings,₹ 450
+Domino's Pizza,Pizzas,"Connaught Circle, Connaught Place",4.1,100+ ratings,₹ 400
+Cafe Delhi Heights,"Indian, Chinese","cannaught place, Connaught Place",4.1,50+ ratings,₹ 800
+Bangla Foods,"North Indian, Chinese","Gole Market, Gole Market",4.1,1K+ ratings,₹ 250
+Nando's,"Portuguese, African","Opp Rajiv Chowk Metro Station, Connaught Place",4.1,100+ ratings,₹ 450
+Domino's Pizza,Pizzas,"Connaught Circle, Connaught Place",4.1,100+ ratings,₹ 400
+Pind Balluchi (CP),"Mughlai, North Indian","Hanuman Road Area, Connaught Place",4.1,100+ ratings,₹ 400
+Sita Ram Diwan Chand,"Street Food, North Indian","Chuna Mandi, Paharganj, Paharganj",4.1,1K+ ratings,₹ 100
+Maalgaadi by Dhaba Estd 1986 Delhi,"North Indian, Indian","Connaught Place, Connaught Place",4.1,500+ ratings,₹ 300
+MOMO SHOMO,"Asian, Chinese","GTB Nagar, Hudson Lane",4.0,50+ ratings,₹ 300
+Think Asia by Hudson Chopsticks,"Chinese, Thai","GTB Nagar, Mukherjee Nagar",4.0,20+ ratings,₹ 500
+Hudson Chopsticks,"Chinese, Pan-Asian","Gate No. 3, GTB Metro, Gtb Nagar",4.0,1K+ ratings,₹ 350
+MBA CHAI WALA,Beverages,"Lajpat Nagar, Lajpat Nagar",4.0,20+ ratings,₹ 200
+Food of Dreams,"North Indian, Chinese","Ashok Vihar, Ashok Vihar",4.0,100+ ratings,₹ 300
+The Village cafe,"South Indian, Indian","Chander Nagar, Krishna Nagar",4.0,100+ ratings,₹ 400
+Burgrill - The Win Win Burger,"Burgers, Healthy Food","GTB Nagar, Hudson Lane",4.0,100+ ratings,₹ 250
+High On Burgers,"American, Pizzas","Satyaniketan, Moti Bagh",4.0,100+ ratings,₹ 200
+Cafeteria & Co.,"Italian, American","South Campus, South Moti Bagh",4.0,50+ ratings,₹ 900
+Punjabi Angithi,"North Indian, Chinese","Ashok Vihar, Ashok Vihar",4.0,1K+ ratings,₹ 400
+PASRICHA'S DOSA JUNCTION,"South Indian, Fast Food","INA Market, Ina Colony",4.0,100+ ratings,₹ 250
+IMLY,"South Indian, North Indian","Preet Vihar, Preet Vihar",4.0,20+ ratings,₹ 300
+Vir Ji Malai Chaap Wale,"North Indian, Chinese","Greater Kailash 2, Lajpat Nagar",4.0,20+ ratings,₹ 300
+BOX8 - Desi Meals,"North Indian, Biryani","Laxmi Nagar, Laxmi Nagar",4.0,50+ ratings,₹ 250
+MBA in Khichdi,"North Indian, Healthy Food","South Extension, South Extension",4.0,20+ ratings,₹ 250
+The Almighty Biryani,"Biryani, North Indian","South Extension, South Extension",4.0,20+ ratings,₹ 300
+Punikar Vadapav Centre,"Closes soonStreet Food, Maharashtrian","PANDAV NAGAR, Mayur Vihar",4.0,100+ ratings,₹ 200
+49 Rolls,"Chinese, Snacks","Ganesh Nagar 2 Extn., Shakarpur, Mayur Vihar",4.0,50+ ratings,₹ 200
+No. 1 Uncles Parantha,"North Indian, Snacks","South Ex 1, South Extension I",4.0,100+ ratings,₹ 150
+Jhakkas Bombay Pav Bhaji,"Street Food, Snacks","Lajpat Nagar, Lajpat Nagar",4.0,1K+ ratings,₹ 200
+Kutty's South Indian Cafe,South Indian,"Preet Vihar, Swasthya Vihar",4.0,100+ ratings,₹ 300
+Wah Ji Wah,"North Indian, Mughlai","V3S Mall, Swasthya Vihar",4.0,100+ ratings,₹ 400
+Tandoori Manzil,"Mughlai, North Indian","Ganesh Nagar, Mayur Vihar",4.0,100+ ratings,₹ 300
+Aggarwal Sweet India,"Sweets, Snacks","Pandav Nagar, Patparganj",4.0,100+ ratings,₹ 300
+Red Chilli Chinese,Chinese,"west guru angad nagar, Laxmi Nagar",4.0,100+ ratings,₹ 200
+Wah Ji Wah,"North Indian, Mughlai","V3S Mall, Swasthya Vihar",4.0,100+ ratings,₹ 400
+Tandoori Manzil,"Mughlai, North Indian","Ganesh Nagar, Mayur Vihar",4.0,100+ ratings,₹ 300
+Aggarwal Sweet India,"Sweets, Snacks","Pandav Nagar, Patparganj",4.0,100+ ratings,₹ 300
+Red Chilli Chinese,Chinese,"west guru angad nagar, Laxmi Nagar",4.0,100+ ratings,₹ 200
+Parantha Express,"North Indian, Snacks","Malviya Nagar, Mayur Vihar",4.0,100+ ratings,₹ 150
+Murthal No.1 Parantha,"North Indian, Street Food","Malviya Nagar, Mayur Vihar",4.0,500+ ratings,₹ 300
+Gupta ji chole bhature,"Indian, North Indian","Laxmi Nagar, Shakarpur Khas",4.0,100+ ratings,₹ 200
+China Hut,Chinese,"Jangpura, Jungpura Extension",4.0,50+ ratings,₹ 250
+"Kebabi Karvaan - Kebabs, Curries & Biryanis","Kebabs, Mughlai","PREET VIHAR, East , Delhi, Laxmi Nagar",4.0,50+ ratings,₹ 400
+South Indian Anna Madras Cafe,South Indian,"NEAR MOTHER DAIRY, Patparganj",4.0,500+ ratings,₹ 150
+The Biryani Life,"Biryani, Hyderabadi","Near Metro Station, Shakarpur Khas",4.0,100+ ratings,₹ 250
+Faasos - Wraps & Rolls,"Fast Food, Snacks","Rajdner Place, Rajendra Place",4.0,500+ ratings,₹ 200
+Art of Spices,"North Indian, Fast Food","Pusa Road, North Extension Area, Rajinder Nagar",4.0,500+ ratings,₹ 300
+Kaarobaar: The Modern-Desi Bistro,"North Indian, Chinese","Karol Bagh, Rajinder Nagar",4.0,1K+ ratings,₹ 300
+The Yellow Bowl,"Chinese, Snacks","Old Delhi, Old Delhi",4.0,50+ ratings,₹ 300
+M Gopinath,South Indian,"Karol Bagh, Old Rajinder Nagar, Rajinder Nagar",4.0,100+ ratings,₹ 250
+China Hut,Chinese,"Jangpura, Jungpura Extension",4.0,50+ ratings,₹ 250
+"Kebabi Karvaan - Kebabs, Curries & Biryanis","Kebabs, Mughlai","PREET VIHAR, East , Delhi, Laxmi Nagar",4.0,50+ ratings,₹ 400
+South Indian Anna Madras Cafe,South Indian,"NEAR MOTHER DAIRY, Patparganj",4.0,500+ ratings,₹ 150
+The Biryani Life,"Biryani, Hyderabadi","Near Metro Station, Shakarpur Khas",4.0,100+ ratings,₹ 250
+Faasos - Wraps & Rolls,"Fast Food, Snacks","Rajdner Place, Rajendra Place",4.0,500+ ratings,₹ 200
+Art of Spices,"North Indian, Fast Food","Pusa Road, North Extension Area, Rajinder Nagar",4.0,500+ ratings,₹ 300
+Kaarobaar: The Modern-Desi Bistro,"North Indian, Chinese","Karol Bagh, Rajinder Nagar",4.0,1K+ ratings,₹ 300
+The Yellow Bowl,"Chinese, Snacks","Old Delhi, Old Delhi",4.0,50+ ratings,₹ 300
+M Gopinath,South Indian,"Karol Bagh, Old Rajinder Nagar, Rajinder Nagar",4.0,100+ ratings,₹ 250
+Veg Gulati (Pandara Road),Indian,"Khan Market, Pandara Road",4.0,50+ ratings,₹ 1200
+GetAWhey - Healthy Ice creams.,"Ice Cream, Healthy Food","Connaught Place, Connaught Place",4.0,20+ ratings,₹ 250
+Shree Guru Vashishth,"Pizzas, North Indian","Karol Bagh, Karol Bagh",4.0,100+ ratings,₹ 229
+Kashmir Sweet Shop,"North Indian, Tandoor","paharganj, Paharganj",4.0,100+ ratings,₹ 200
+Maa Bhagwati,North Indian,"Paharganj, Paharganj",4.0,50+ ratings,₹ 500
+Home Plate by EatFit,"North Indian, Home Food","Chuna Mandi Paharganj, Gole Market",4.0,100+ ratings,₹ 160
+EatFit,"Healthy Food, Pizzas","Laxmi Narain Street, karol Bagh",4.0,100+ ratings,₹ 270
+Barbeque Nation,"North Indian, Barbecue","Munshi Lal Building, Connaught Place, Connaught Place",4.0,100+ ratings,₹ 600
+Depaul's,Chinese,"Connaught Place, Connaught Place",4.0,100+ ratings,₹ 200
+Rajdhani,"Rajasthani, Thalis","Scindia House, Connaught Place",4.0,100+ ratings,₹ 1050
+Biryani Badshah,"Biryani, Mughlai","Baba Kharak Singh Rd, Connaught Place",4.0,500+ ratings,₹ 350
+Starbucks Coffee,"Beverages, Ice Cream","Hamilton House, Connaught Place",4.0,100+ ratings,₹ 400
+Bikkgane Biryani,"Biryani, Mughlai","Opposite Pvr Rivoli, Connaught Place",4.0,1K+ ratings,₹ 400
+The 2nd Wife,North Indian,"Shahdara, Krishna Nagar",3.9,20+ ratings,₹ 180
+Rolls King,Indian,"GTB Nagar, GTB Nagar",3.9,100+ ratings,₹ 300
+Bhalla King,"Fast Food, Chaat","Lajpat Nagar, Lajpat Nagar",3.9,100+ ratings,₹ 150
+Puran Dhaba,"North Indian, Fast Food","Ashok Vihar, Ashok Vihar",3.9,50+ ratings,₹ 200
+Begum Jaan by Hudson ,"North Indian, Mughlai","GTB Nagar, GTB Nagar",3.9,100+ ratings,₹ 500
+Asia Bowl Co.,"Chinese, Thai","GTB Nagar, Gtb Nagar",3.9,100+ ratings,₹ 250
+Punjabi Tikka Junction,"North Indian, Punjabi","Laxmi Nagar, Geeta Colony",3.9,50+ ratings,₹ 300
+Chinese Veg Crunch,Chinese,"Ashok Vihar, Ashok Vihar",3.9,100+ ratings,₹ 300
+Shyam Chaat Bhandar,"Snacks, Street Food","Vijay Nagar, Vijay Nagar",3.9,100+ ratings,₹ 150
+KC restaurant,"Chinese, Asian","South Campus, Moti Bagh",3.9,100+ ratings,₹ 250
+Grameen Kulfi,"Ice Cream, Desserts","Shakarpur, Shakarpur Khas",3.9,20+ ratings,₹ 120
+Rollsking,"Fast Food, North Indian","Flyover market Defence Colony, Lajpat Nagar",3.9,500+ ratings,₹ 250
+Hot N Cool,"Fast Food, Italian","Laxmi Nagar, Laxmi Nagar",3.9,20+ ratings,₹ 200
+Bobby Tikki Wala,Fast Food,"Laxmi Nagar, Laxmi Nagar",3.9,100+ ratings,₹ 400
+Apni Rasoi,"North Indian, Chinese","Pandav nagar, Patparganj",3.9,1K+ ratings,₹ 200
+Wrapss Kathi Rolls,"Fast Food, Snacks","North Extension Area, Rajinder Nagar, Karol Bagh",3.9,1K+ ratings,₹ 200
+Nandlal Ka Dhaba,"North Indian, Mughlai","Daryaganj, Daryaganj",3.9,100+ ratings,₹ 250
+Lazeez Kebab & Curries,"North Indian, Chinese","Old Rajender Nagar, Old Rajinder Nagar, Rajinder Nagar",3.9,1K+ ratings,₹ 400
+Arya Bhavan,"South Indian, Beverages","Karol Bagh, Karol Bagh",3.9,100+ ratings,₹ 400
+Al Yamin,"Mughlai, Biryani","Old Delhi, Jama Masjid, Old Delhi",3.9,100+ ratings,₹ 300
+Sachdeva's  Multi Cuisine Joint,"Chinese, North Indian","Mirdad Road, Barakhamba",3.9,20+ ratings,₹ 149
+Tadka 4986,"North Indian, Chinese","Nehru Bazaar, Paharganj, Paharganj",3.9,50+ ratings,₹ 500
+Wow! Momo,"Tibetan, Healthy Food","New Delhi Railway Station, Connaught Place",3.9,500+ ratings,₹ 300
+Lazeez Affaire,"Indian, Chinese","Connaught Place, Connaught Place",3.9,20+ ratings,₹ 300
+Rooh Burger Cafe,"American, Fast Food","Connaught Place, Connaught Place",3.9,500+ ratings,₹ 200
+Bhape Da Hotel,North Indian,"Connaught Place, Barakhamba",3.9,100+ ratings,₹ 850
+Lazeez Kebab & Curries,"North Indian, Chinese","Old Rajender Nagar, Old Rajinder Nagar, Rajinder Nagar",3.9,1K+ ratings,₹ 400
+Arya Bhavan,"South Indian, Beverages","Karol Bagh, Karol Bagh",3.9,100+ ratings,₹ 400
+Al Yamin,"Mughlai, Biryani","Old Delhi, Jama Masjid, Old Delhi",3.9,100+ ratings,₹ 300
+Sachdeva's  Multi Cuisine Joint,"Chinese, North Indian","Mirdad Road, Barakhamba",3.9,20+ ratings,₹ 149
+Tadka 4986,"North Indian, Chinese","Nehru Bazaar, Paharganj, Paharganj",3.9,50+ ratings,₹ 500
+Wow! Momo,"Tibetan, Healthy Food","New Delhi Railway Station, Connaught Place",3.9,500+ ratings,₹ 300
+Lazeez Affaire,"Indian, Chinese","Connaught Place, Connaught Place",3.9,20+ ratings,₹ 300
+Rooh Burger Cafe,"American, Fast Food","Connaught Place, Connaught Place",3.9,500+ ratings,₹ 200
+Bhape Da Hotel,North Indian,"Connaught Place, Barakhamba",3.9,100+ ratings,₹ 850
+Embassy,Indian,"Connaught Place, Connaught Place",3.9,20+ ratings,₹ 1400
+Handi Chhadeyan Di (Since 2012),"North Indian, Chinese","Connaught Place, Cannaught Place",3.9,100+ ratings,₹ 250
+Nazeer Foods,"North Indian, Biryani","Cannaught place, Connaught Place",3.9,100+ ratings,₹ 400
+Sagar Ratna,"South Indian, North Indian","Outer Circle, Connaught Place",3.9,100+ ratings,₹ 600
+Bikanervala,"North Indian, Snacks","Connaught Place, Connaught Place",3.9,100+ ratings,₹ 300
+KFC,"American, Snacks","Connaught Place, Connaught Place",3.9,100+ ratings,₹ 400
+Jain Chawal Wale,"North Indian, Snacks","Connaught Place, Connaught Place",3.9,100+ ratings,₹ 250
+Paranthe Wali Gali,"Home Food, North Indian","Hauz Khas Delhi, South campus",3.8,100+ ratings,₹ 200
+The Hudson cafe,"Italian, American","Hudson Lane, GTB Nagar",3.8,100+ ratings,₹ 500
+BATRA'S TANDOORI NIGHT,North Indian,"Laxmi Nagar, Geeta Colony",3.8,20+ ratings,₹ 800
+Big Yellow Door,"Italian, Continental","2nd Floor, Hudson Lane, Hudson Lane",3.8,50+ ratings,₹ 400
+The Yellow Bowl ,"Chinese, Fast Food","Patparganj Rd, Krishna Nagar, Geeta Colony",3.8,100+ ratings,₹ 300
+Pind Balluchi,"Mughlai, North Indian","Central market, Lajpat Nagar, Lajpat Nagar",3.8,100+ ratings,₹ 400
+Sanjay Chur Chur Naan,North Indian,"Moolchand Meetro Station, Lajpat Nagar",3.8,100+ ratings,₹ 300
+HANDI BIRYANI JUNCTION,"North Indian, Biryani","GTB Nagar, Vijay Nagar",3.8,100+ ratings,₹ 400
+The Belgian Waffle Co.,"Desserts, Beverages","Hudson Lane, GTB Nagar",3.8,100+ ratings,₹ 200
+Cafe lucid,"South Indian, North Indian","GTB Nagar, Vijay Nagar",3.8,20+ ratings,₹ 150
+Cake Crush,Bakery,"CC Colony, Kalyan Vihar",3.8,20+ ratings,₹ 500
+Bombay canteen,"Opens next at 9:30 am, tomorrowIndian","Lajpat Nagar, Lajpat Nagar",3.8,20+ ratings,₹ 149
+NH1 Bowls - Highway To North,"North Indian, Punjabi","Laxmi Nagar, Laxmi Nagar",3.8,20+ ratings,₹ 250
+Friends Kitchen,"North Indian, Mughlai","Gujranwala Town, Ashok Vihar",3.8,20+ ratings,₹ 400
+Aamantran Bangla,Bengali,"Pandav Nagar, Patparganj",3.8,50+ ratings,₹ 150
+Delhi6 Bedmi Poori,"North Indian, Snacks","Lajpat Nagar, Lajpat Nagar",3.8,20+ ratings,₹ 100
+EATaliano-the gourmet pizzeria,Italian,"Nagar, Laxmi",3.8,20+ ratings,₹ 350
+Unmarried Kitchen - Value Meals and Combos,"North Indian, Punjabi","PREET VIHAR, East, Laxmi Nagar",3.8,50+ ratings,₹ 300
+Nathu's Sweets,"Sweets, Bakery","Vivek Marg, Laxmi Nagar",3.8,100+ ratings,₹ 300
+Champaran kitchen,"Indian, Seafood","Laxmi Nagar, Shakarpur Khas",3.8,50+ ratings,₹ 300
+BIKANER SWEETS & SNACKS,Sweets,"Laxmi Nagar, Laxmi Nagar",3.8,20+ ratings,₹ 300
+Bikaneri Sweets Corner,"Sweets, Desserts","LAXMI NAGAR, Shakarpur",3.8,50+ ratings,₹ 150
+Dhading KTM,Chinese,"Lalita Park, Laxmi Nagar",3.8,100+ ratings,₹ 300
+La Pino'z Pizza,"Italian, Pizzas","Laxmi Nagar, Laxmi Nagar",3.8,1K+ ratings,₹ 350
+Al kadeer Chicken corner,Mughlai,"MOTHER DAIRY ROAD, Shakarpur Khas",3.8,100+ ratings,₹ 250
+Annie's Kerala Kitchen,"Kerala, South Indian","Karol Bagh, Patel Nagar",3.8,100+ ratings,₹ 300
+Om Ji Om,"North Indian, Fast Food","Netaji subhash market, Karol Bagh",3.8,100+ ratings,₹ 500
+Mom's Kitchen,"North Indian, Chinese","Karol Bagh, Karol Bagh",3.8,100+ ratings,₹ 200
+Karim's Jama Masjid,"Mughlai, North Indian","Old Delhi, Jama Masjid",3.8,100+ ratings,₹ 400
+classic chicken,"Indian, Beverages","Connaught Place, Gole Market",3.8,50+ ratings,₹ 300
+Giani,Ice Cream,"Gole Market, Gole Market",3.8,50+ ratings,₹ 300
+The Burger Club,"American, Beverages","Main Market, Karol Bagh",3.8,1K+ ratings,₹ 250
+Om Ji Om,"North Indian, Fast Food","Netaji subhash market, Karol Bagh",3.8,100+ ratings,₹ 500
+Mom's Kitchen,"North Indian, Chinese","Karol Bagh, Karol Bagh",3.8,100+ ratings,₹ 200
+Karim's Jama Masjid,"Mughlai, North Indian","Old Delhi, Jama Masjid",3.8,100+ ratings,₹ 400
+classic chicken,"Indian, Beverages","Connaught Place, Gole Market",3.8,50+ ratings,₹ 300
+Giani,Ice Cream,"Gole Market, Gole Market",3.8,50+ ratings,₹ 300
+The Burger Club,"American, Beverages","Main Market, Karol Bagh",3.8,1K+ ratings,₹ 250
+THALASSERY RESTAURANT,"North Indian, Indian","Karol Bagh, Paharganj",3.8,100+ ratings,₹ 200
+Shri Hari Vaishnav Dhaba,"North Indian, Thalis","NDMC Market, Mandi House",3.8,20+ ratings,₹ 200
+Zen,"Chinese, Pan-Asian","B Block, Connaught Place",3.8,20+ ratings,₹ 700
+Wat-A-Burger! - India ka Burger,"American, Indian","Connaught Place, Connaught Place",3.8,100+ ratings,₹ 200
+BurGrub,"American, Fast Food","Connaught Place, Connaught Place",3.8,100+ ratings,₹ 350
+Nirula's,"Pizzas, Pastas","M-Block Connaught Place, Connaught Place",3.8,100+ ratings,₹ 300
+Pind Balluchi - Janpath,"North Indian, Mughlai","Janpat, Connaught Place",3.8,100+ ratings,₹ 400
+Punjab Grill,Indian,"JANPATH, Janpath",3.8,50+ ratings,₹ 900
+Popular chicken (Murga Market),"North Indian, Mughlai","Murga market, Ashok Vihar",3.7,100+ ratings,₹ 400
+Dosai Bhavan,"Indian, Chinese","Laxmi Nagar, Krishna Nagar",3.7,20+ ratings,₹ 150
+Winner Pizzas (Fresh Dough),"Pizzas, Italian","South Extension, South Extension",3.7,100+ ratings,₹ 300
+Shri Hari Restaurant,"North Indian, Thalis","Lajpat Nagar, Lajpat Nagar",3.7,100+ ratings,₹ 300
+Shri Sai Rasoi,"North Indian, South Indian","GURUDWARA ROAD, South Extension I",3.7,50+ ratings,₹ 200
+Ranch And Pepper,"American, Italian-American","Defence Colony, Defence Colony",3.7,20+ ratings,₹ 450
+Aashirwad Restaurant,North Indian,"Mangal Bazar road, Laxmi Nagar",3.7,50+ ratings,₹ 400
+Capri Wings,"Italian, Mexican","South Extension, Defence Colony",3.7,20+ ratings,₹ 400
+Chef Joint,"North Indian, Chinese","Jangpura Extension, Block B",3.7,100+ ratings,₹ 200
+Indian Taste,"Indian, Chinese","Mayur Vihar, Laxmi nagar",3.7,20+ ratings,₹ 149
+Joshi eating house,"Indian, Beverages","SHAKARPUR, Shakarpur Khas",3.7,20+ ratings,₹ 200
+CHAMPARAN MEAT HOUSE,Indian,"Laxmi Nagar, Laxmi Nagar",3.7,100+ ratings,₹ 300
+Rominus Pizza And Burger,"Pizzas, Italian","Laxmi Nagar, Laxmi Nagar",3.7,500+ ratings,₹ 150
+La Milano Pizzeria,"Italian, Pizzas","Rajinder Nagar, Rajinder Nagar",3.7,100+ ratings,₹ 500
+Shawarma Kings,"Lebanese, Chinese","Apsara arcade, Rajinder Nagar",3.7,500+ ratings,₹ 200
+Chowringhee,"Closes soonIndian, Chinese","China Market,Karol Bagh, Karol Bagh",3.7,1K+ ratings,₹ 250
+KRISHNA DHABA,North Indian,"Karol Bagh, Paharganj",3.7,50+ ratings,₹ 200
+PUNJABI CHASKA,"Thalis, Indian","Karol Bagh, Paharganj",3.7,20+ ratings,₹ 200
+Tandoori Handi (Since 1999) ,"North Indian, Chinese","Connaught Place, Connaught Place",3.7,100+ ratings,₹ 250
+Slice,"Pizzas, Continental","Connaught Place, Connaught Place",3.7,20+ ratings,₹ 200
+Subway,"Salads, Snacks","M Block, Connaught Place",3.7,100+ ratings,₹ 350
+Jack Rolls,"Fast Food, Street Food","gtb nagar, Delhi University-GTB Nagar",3.6,100+ ratings,₹ 150
+Green Dot Pizza,"Pizzas, Italian","GTB Nagar, GTB Nagar",3.6,100+ ratings,₹ 300
+Punjabi Big Meals,"North Indian, Fast Food","Phase 3, Ashok Vihar",3.6,50+ ratings,₹ 200
+Punjabi's Veg Grill ( jheel wale ),"North Indian, Tandoor","Jheel Khuranja, Geeta Colony",3.6,100+ ratings,₹ 350
+JVS,"Snacks, Fast Food","South campus, South Campus",3.6,50+ ratings,₹ 300
+Wood Box Cafe,"Continental, American","Edward Lane, Vijay Nagar",3.6,100+ ratings,₹ 400
+Kaveri food,North Indian,"GTB Nagar , Delhi, Hudson Lane",3.6,50+ ratings,₹ 200
+Saleem's Restaurant,North Indian,"Flyover Market, Defence Colony",3.6,50+ ratings,₹ 600
+piu pizza hut,"Italian, Pizzas","Laxmi Nagar, Laxmi Nagar",3.6,20+ ratings,₹ 200
+Pizza Studio,"Pizzas, Pastas","Mayur Vihar Phase 1, Nirman Vihar",3.6,100+ ratings,₹ 400
+Kailash ji Rasoi,Indian,"South Extension, South Extension I",3.6,20+ ratings,₹ 299
+Make My Thali by Punjabi Tadka,"North Indian, Chinese","Laxmi Nagar, Mangal Bazar",3.6,500+ ratings,₹ 200
+Om Sai South Indian dosa,"South Indian, Indian","pandav nagar, Patparganj",3.6,100+ ratings,₹ 150
+piu pizza hut,"Italian, Pizzas","Laxmi Nagar, Laxmi Nagar",3.6,20+ ratings,₹ 200
+Pizza Studio,"Pizzas, Pastas","Mayur Vihar Phase 1, Nirman Vihar",3.6,100+ ratings,₹ 400
+Kailash ji Rasoi,Indian,"South Extension, South Extension I",3.6,20+ ratings,₹ 299
+Make My Thali by Punjabi Tadka,"North Indian, Chinese","Laxmi Nagar, Mangal Bazar",3.6,500+ ratings,₹ 200
+Om Sai South Indian dosa,"South Indian, Indian","pandav nagar, Patparganj",3.6,100+ ratings,₹ 150
+Roms Pizza,"Pizzas, Italian-American","Laxmi Nagar, Shakarpur Khas",3.6,100+ ratings,₹ 250
+Riyaz Biryani Corner,"North Indian, Mughlai","Shakurpur, Shakarpur Khas",3.6,1K+ ratings,₹ 450
+Karim's,Indian,"Laxmi Nagar, Shakarpur Khas",3.6,50+ ratings,₹ 499
+Wrap & Roll,"Fast Food, Chinese","Apsara Arcade, North Extension Area, Rajinder Nagar",3.6,500+ ratings,₹ 400
+New Janta Dhaba,Indian,"Karol Bagh, Paharganj",3.6,50+ ratings,₹ 300
+Delhi Darbar Dhaba,"North Indian, Chinese","NDMC Market, Mandi House",3.6,50+ ratings,₹ 400
+Dayal Dhaba,North Indian,"34 BAIRD LANE, Gole Market",3.6,100+ ratings,₹ 200
+Mezbaan Biryani,"Indian, Biryani","Paharganj, Mukherjee Nagar",3.5,100+ ratings,₹ 250
+Chaap Kitchen,"Opens next at 12 noon, tomorrowNorth Indian, Chinese","Amar Colony, Lajpat Nagar",3.5,20+ ratings,₹ 300
+Shudh Vaishno Dhaba,"North Indian, Thalis","GTB Nagar, GTB Nagar",3.5,20+ ratings,₹ 100
+Best Muradabadi Biryani,"Biryani, Mughlai","GTB Nagar, Mukherjee Nagar",3.5,100+ ratings,₹ 250
+Chawla Refreshment,"Beverages, Ice Cream","MAIN ROAD GEETA COLONY EAST DELHI
+, Krishna Nagar",3.4,20+ ratings,₹ 150
+DELHI WAH JI WAH,"Tandoor, Snacks","GTB Nagar, Vijay Nagar",3.4,20+ ratings,₹ 200
+Metro Fast Food,Chinese,"Delhi University-GTB Nagar, New Delhi",3.4,20+ ratings,₹ 150
+Dallcheeni,Indian,"Vijay nagar, Kalyan Vihar",3.4,20+ ratings,₹ 300
+Chander Dhaba,North Indian,"Mathura Road, Sunlight Colony",3.4,50+ ratings,₹ 200
+Mad over momos,"Chinese, Indian","Yashwant place, Chanakyapuri",3.4,20+ ratings,₹ 500
+U Like,North Indian,"Paharganj, Paharganj",3.4,20+ ratings,₹ 250
+Gupta Foods,"North Indian, Chinese","Middle circle, Connaught Place",3.4,20+ ratings,₹ 300
+Mehfil Biryani by Zakir Khan,"Biryani, Mughlai","Kirti Nagar, Kirti Nagar",3.3,20+ ratings,₹ 350
+Krishna fast food center,"Chinese, Fast Food","Ashok Vihar Delhi, Ashok Vihar",3.3,50+ ratings,₹ 250
+PRINCE  POINT,"Indian, Chinese","Laxmi Nagar, Krishna Nagar",3.3,20+ ratings,₹ 200
+Prince Cafe,"Fast Food, South Indian","Krishna nagar, Krishna Nagar",3.3,50+ ratings,₹ 200
+Moti Mahal Delux Legendary Culinary,"Mughlai, North Indian","South Extension II, South Extension Ii",3.3,20+ ratings,₹ 1200
+Tandoori Tadka,"North Indian, Chinese","Defence Enclave, Swasthya Vihar",3.3,50+ ratings,₹ 250
+GARHWAL MAHAK CHINESE FOOD,North Indian,"South Extension, Ina Colony",3.3,20+ ratings,₹ 300
+BIHAR DHABA,North Indian,"Mayur Vihar, Patparganj",3.3,20+ ratings,₹ 200
+Wok 88,Chinese,"lajpat nagar-1, Lajpat Nagar",3.3,20+ ratings,₹ 500
+grill out tandoor and fast food,"Tandoor, Chinese","SHAKARPUR, SHAKARPUR",3.3,20+ ratings,₹ 350
+Ram ji Samose wala,Snacks,"Laxmi Nagar, Shakarpur Khas",3.3,100+ ratings,₹ 150
+CHAUBARA,"Continental, Italian","Connaught Place, Connaught Place",3.3,20+ ratings,₹ 250
+Gupta Restaurant,"North Indian, South Indian","Gole market, Gole Market",3.3,100+ ratings,₹ 200
+Burger Bites,"Chinese, Continental","Ashok Vihar, Ashok Vihar",3.2,20+ ratings,₹ 300
+Ghoomar traditional thali restaurant,Indian,"Connaught Place, Connaught Place",3.2,50+ ratings,₹ 700
+HIRA SWEET LAL QUARTER,"Sweets, Snacks","Laxmi Nagar, Laxmi Nagar",3.1,20+ ratings,₹ 250
+Super Subs,"Desserts, Salads","GTB Nagar, Mukherjee Nagar",3.1,20+ ratings,₹ 300
+Hot & Spot Fast Food,"Chinese, Fast Food","GTB Nagar, Gtb Nagar",3.1,20+ ratings,₹ 200
+AGGARWAL SWEETS,"Snacks, Sweets","Shahdara, Shahdara",3.1,20+ ratings,₹ 200
+Bewafa Biryani Wala,"Chinese, North Indian","Mayur Vihar, Vinod Nagar North",3.1,20+ ratings,₹ 200
+Shin Shin Chinese,"Chinese, Oriental","GTB, Delhi University-GTB Nagar",3.0,100+ ratings,₹ 200
+Noor Hyderabadi,Indian,"GTB Nagar, Mukherjee Nagar",3.0,20+ ratings,₹ 250
+Dah,Desserts,"Defence Colony, Defence Colony",3.0,20+ ratings,₹ 400
+Gulati's Kitchen,"North Indian, Snacks","Connaught Place, Connaught Place",3.0,20+ ratings,₹ 200
+Super Subs,"Desserts, Salads","GTB Nagar, Mukherjee Nagar",3.1,20+ ratings,₹ 300
+Hot & Spot Fast Food,"Chinese, Fast Food","GTB Nagar, Gtb Nagar",3.1,20+ ratings,₹ 200
+AGGARWAL SWEETS,"Snacks, Sweets","Shahdara, Shahdara",3.1,20+ ratings,₹ 200
+Bewafa Biryani Wala,"Chinese, North Indian","Mayur Vihar, Vinod Nagar North",3.1,20+ ratings,₹ 200
+Shin Shin Chinese,"Chinese, Oriental","GTB, Delhi University-GTB Nagar",3.0,100+ ratings,₹ 200
+Noor Hyderabadi,Indian,"GTB Nagar, Mukherjee Nagar",3.0,20+ ratings,₹ 250
+Dah,Desserts,"Defence Colony, Defence Colony",3.0,20+ ratings,₹ 400
+Gulati's Kitchen,"North Indian, Snacks","Connaught Place, Connaught Place",3.0,20+ ratings,₹ 200
+SPICES OF SOUTH,"Fast Food, South Indian","Laxmi Nagar, Krishna Nagar",2.9,50+ ratings,₹ 150
+Chinese potli,Indian,"Laxmi Nagar, Krishna Nagar",2.9,20+ ratings,₹ 80
+Dosto Di Hatti,North Indian,"Laxmi Nagar, kailash Nagar",2.9,20+ ratings,₹ 75
+Bikaner sweets,"Desserts, Fast Food","Laxmi Nagar, Geeta Colony",2.9,50+ ratings,₹ 430
+Cake Room,"Fast Food, Bakery","Kishan Gunj, Laxmi Nagar",2.9,20+ ratings,₹ 250
+THE BIRYANI INC,"Biryani, Beverages","Mayur Vihar, Vinod Nagar North",2.8,20+ ratings,₹ 200
+Hari OM Chaapwala,"Indian, Thalis","Mayur Vihar, Mayur Vihar",2.8,50+ ratings,₹ 150
+Vaishnav dhaba,North Indian,"Lajpat Nagar, Sunlight Colony",2.7,20+ ratings,₹ 250
+Hello G Sas Kitchen,"Biryani, Indian","Paharganj, Delhi",2.3,500+ ratings,₹ 250
+Ham Burger,Beverages,"gtb nagar, Mukherjee Nagar",2.2,20+ ratings,₹ 150
+Big Fat Rollz,"Street Food, Fast Food","Dwarka Mor, Kirti Nagar Industrial Area, Kirti Nagar",--,Too Few Ratings,₹ 200
+VISHNU PIZZA POINT,Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Flavors Of Delhi,"Opens next at 4:30 pm, todayNorth Indian, Fast Food","South Extension, South Extension",--,Too Few Ratings,₹ 300
+Yaara Da Adda,"Chinese, Indian","Laxmi Nagar, Krishna Nagar",--,Too Few Ratings,₹ 250
+Shah Ji Kulcha,"Snacks, Tandoor","Krishna Nagar, Krishna Nagar",--,Too Few Ratings,₹ 200
+MAHAK VADA PAV,"Street Food, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+JACK IN THE BOX,"Street Food, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+MALL OF FOOD,"Indian, Chinese","GTB Nagar, Gujranwala town",--,Too Few Ratings,₹ 200
+TKs Oriental Grill - Hyatt regency,Japanese,"R.K Puram, Rama Krishna Puram",--,Too Few Ratings,₹ 600
+REVATHI's FUSION KITCHEN..,"Opens next at 5 pm, todayIndian","South Extension, South Extension",--,Too Few Ratings,₹ 300
+Chah Shala,"Italian-American, Fast Food","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 250
+The China Kitchen - Hyatt Regency,Chinese,"R.K Puram, South Campus",--,Too Few Ratings,₹ 600
+D3 - DHABA DILLI DA,Indian,"GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 250
+PRINCE FAST FOOD,Indian,"Laxmi Nagar, Krishna Nagar",--,Too Few Ratings,₹ 400
+Rock N' Roll Restro,"Italian-American, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Cafe - Hyatt Regency,"Indian, American","R.K Puram, Rama Krishna Puram",--,Too Few Ratings,₹ 600
+Sidewalk - Hyatt Regency,"Bakery, Desserts","R.K Puram, Rama Krishna Puram",--,Too Few Ratings,₹ 600
+Spoon Full Of Flavors,Indian,"Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 250
+La Piazza - Hyatt regency Delhi,Italian,"R.K Puram, Rama Krishna Puram",--,Too Few Ratings,₹ 600
+Rock N Roll Cafe,"Snacks, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Butter chicken babe,"North Indian, Biryani","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 500
+El Bueno Coffee Roasters,Beverages,"Kirti Nagar, Kirti Nagar",--,Too Few Ratings,₹ 500
+Radhey Krishna Choley Bhature,"Opens next at 8:30 am, tomorrowNorth Indian, Punjabi","Kirti Nagar, Kirti Nagar",--,Too Few Ratings,₹ 150
+Punjabi By Nature,Indian,"Kirti Nagar Industrial Area, Kirti Nagar",--,Too Few Ratings,₹ 1300
+AMRITSARI BREAK FAST HUT,"Opens next at 8:30 am, tomorrowPunjabi","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 150
+Desi Swaad Restaurant,North Indian,"Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+THE CAFE FINOM,"Continental, Chinese","GTB Nagar, Mukherjee Nagar",--,Too Few Ratings,₹ 300
+THE 3 STOREY MULTICUISINE RESTAURANT,Indian,"KRISHNA NAGAR, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Super Express,"South Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 100
+MATHURA VEG BIRYANI,Biryani,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+CHINESE BYTE,"Chinese, Indian","Laxmi Nagar, Krishna Nagar",--,Too Few Ratings,₹ 200
+Pizza Never Lies,"Pizzas, Desserts","South Campus, South Campus",--,Too Few Ratings,₹ 350
+Uncle Cake & Bake,"Bakery, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 150
+RAJASTHANI ICE CREAM & PAW BHAJI,"Ice Cream, Desserts","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 350
+The Cheesy Story,"Fast Food, Beverages","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 350
+Momos World,"Chinese, Fast Food","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Chill Maaro,"Fast Food, Chinese","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 200
+Badshah Pao Bhaji,Indian,"Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Ludo Lalit,"Chinese, American","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Chakhna Lo India,"Indian, Snacks","Kirti Nagar, Inderpuri",--,Too Few Ratings,₹ 350
+Momos Hub,Chinese,"Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Mahendra sudh khana,"North Indian, Beverages","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Home Food Kitchen,Indian,"Ashok Vihar,  Kanahaiya Nagar",--,Too Few Ratings,₹ 150
+KHANNA JUICE CORNER,"Beverages, Ice Cream","Krishna Nagar, Krishna Nagar",--,Too Few Ratings,₹ 150
+Food Hub,"North Indian, Chinese","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Breakfast Corner,North Indian,"Chander Nagar, Krishna Nagar",--,Too Few Ratings,₹ 200
+Ludo Lalit,"Chinese, American","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Chakhna Lo India,"Indian, Snacks","Kirti Nagar, Inderpuri",--,Too Few Ratings,₹ 350
+Momos Hub,Chinese,"Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Mahendra sudh khana,"North Indian, Beverages","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Home Food Kitchen,Indian,"Ashok Vihar,  Kanahaiya Nagar",--,Too Few Ratings,₹ 150
+KHANNA JUICE CORNER,"Beverages, Ice Cream","Krishna Nagar, Krishna Nagar",--,Too Few Ratings,₹ 150
+Food Hub,"North Indian, Chinese","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Breakfast Corner,North Indian,"Chander Nagar, Krishna Nagar",--,Too Few Ratings,₹ 200
+The Cake Store,Bakery,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Jyoti Chaat Corner,Chaat,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+DELHI ZAIKA,Indian,"Laxmi Nagar, Krishna Nagar",--,Too Few Ratings,₹ 200
+SHAMMI BHAI LASSI WALA,"Chinese, Snacks","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 250
+GURU JI RASOI,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 150
+CHAYKALA,"North Indian, Fast Food","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 200
+MAA KI RASOI,Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Lizza's Pizza,"Fast Food, Beverages","South Extension, South Extension",--,Too Few Ratings,₹ 250
+Hum Sabki Rasoi,"North Indian, Chinese","Kirti Nagar, Kirti Nagar",--,Too Few Ratings,₹ 300
+Singh Dhaba,"North Indian, Chinese","Kirti Nagar, Kirti Nagar",--,Too Few Ratings,₹ 250
+Food Sip N Bite,Fast Food,"Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Krishna tiffin service,Indian,"Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 250
+Punjabi Shahi Veg Biryani,Biryani,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Crispy Delight Bakers,Italian-American,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+Wack Waffles & Brownies,"Waffle, Bakery","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 250
+Panda Momos,"Chinese, Tibetan","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 200
+Desi Chaska,"Chinese, Snacks","Krishna Nagar, Krishna Nagar",--,Too Few Ratings,₹ 200
+Chinese Food Plaza,Chinese,"Shahdara, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Jenny's Brownies,"Bakery, Desserts","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 250
+Brijwasi sweets snacks,"Sweets, Desserts","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 100
+FOODOOZE BY PLATONIC,"Chinese, North Indian","South Campus, South Campus",--,Too Few Ratings,₹ 300
+Bakery 24/7,Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+M/S. PUNJABI TADKA,North Indian,"South Campus, South Campus",--,Too Few Ratings,₹ 300
+Ashok Meat,North Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 600
+Bakery 24/7,Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+M/S. PUNJABI TADKA,North Indian,"South Campus, South Campus",--,Too Few Ratings,₹ 300
+Ashok Meat,North Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 600
+MANI'S CHICKEN INN,"North Indian, Chinese","Chwala chicken near Laxmi Nager, Geeta Colony Police station Opposite",--,Too Few Ratings,₹ 200
+Khichdi Paradise,"Healthy Food, Home Food","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 250
+Magic Pancakes,"Beverages, Desserts","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 250
+CHAIMOS (A UNIT OF QDM GROUP),"Chinese, Snacks","South Campus, South Campus",--,Too Few Ratings,₹ 200
+Meatwale. Com,Snacks,"KRISHNA NAGAR, MAIN JHEEL ROAD, Krishna Nagar",--,Too Few Ratings,₹ 300
+Dalgrak,Korean,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 700
+The bowl club by Pind Balluchi,Indian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 600
+Winzo Foods,"North Indian, Snacks","South Campus, South Moti Bagh",--,Too Few Ratings,₹ 250
+Delicious Dhaba,"North Indian, Chinese","Kirti Nagar, Kirti Nagar",--,Too Few Ratings,₹ 300
+Sandwich Maniac,"Continental, Beverages","Uday Park, South Extension Ii",--,Too Few Ratings,₹ 300
+Mahi Ka Restaurant ,Indian,"Arjun Nagar New Delhi, Hauz Khas",--,Too Few Ratings,₹ 300
+Pind De Chur Chur Naan by Pind Balluchi,North Indian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 600
+Green Life Cafe,Healthy Food,"Kirti Nagar, Moti Nagar",--,Too Few Ratings,₹ 200
+Sahil Restaurant,"Chinese, North Indian","South Extension, South Extension Ii",--,Too Few Ratings,₹ 300
+Foodie Mania,Fast Food,"Hauz Khas, Hauz Khas",--,Too Few Ratings,₹ 350
+The Rice & Noodle House,"Chinese, Asian","South Extension, South Extension",--,Too Few Ratings,₹ 400
+Sharma Ji Ke Mashoor Chole Bhature,"North Indian, Chinese","South Extension, South Extension",--,Too Few Ratings,₹ 150
+MDH MASALA LEGENDRY CULINERY KITCHEN SINCE 1960,Indian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+THE FOOD LOVER,Indian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+AKIB CHICKEN BIRYANI POINT,"Biryani, Indian","South Extension, South Extension",--,Too Few Ratings,₹ 300
+Tim Tim Foods,Pizzas,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 100
+Innings Break Cafe,"Italian, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Cake Studio,Bakery,"South Extension, South Extension",--,Too Few Ratings,₹ 350
+Chaap Story,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 500
+MOOLCHANDWALA,"North Indian, Snacks","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Rajshrees Kitchen,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 500
+Backstreet Cafe,"Italian, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Embassy Hudson,"Chinese, Pastas","GTB Nagar, Gtb Nagar",--,Too Few Ratings,₹ 600
+IMYAPA,"Bakery, Desserts","South Extension, South Extension",--,Too Few Ratings,₹ 500
+Chaap Story,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 500
+MOOLCHANDWALA,"North Indian, Snacks","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Rajshrees Kitchen,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 500
+Backstreet Cafe,"Italian, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Embassy Hudson,"Chinese, Pastas","GTB Nagar, Gtb Nagar",--,Too Few Ratings,₹ 600
+IMYAPA,"Bakery, Desserts","South Extension, South Extension",--,Too Few Ratings,₹ 500
+Aahaaa,"Chinese, North Indian","Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 200
+Food Feast Bakery,Bakery,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Love At First Bite,Bakery,"South Campus, South Campus",--,Too Few Ratings,₹ 200
+APS KITCHEN,"South Indian, Snacks","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 200
+The Food Jinn,"Opens next at 1:30 pm, tomorrowFast Food, American","South Extension, South Extension",--,Too Few Ratings,₹ 150
+PIZZA BURGER PLAZA,"Pizzas, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+MOHIT RESTAURANT,"North Indian, Chinese","South Extension, South Extension",--,Too Few Ratings,₹ 250
+Nice Pizza Sweet Corner,"Pizzas, Italian-American","Shahdara, Shahdara",--,Too Few Ratings,₹ 200
+Zaika Chicken Biryani,"Biryani, North Indian","South Campus, SATYA NIKETAN",--,Too Few Ratings,₹ 200
+AAMA KO KITCHEN,"Chinese, Snacks","South Campus, South Campus",--,Too Few Ratings,₹ 300
+MOHIT RESTAURANT,"North Indian, Chinese","South Extension, South Extension",--,Too Few Ratings,₹ 250
+Nice Pizza Sweet Corner,"Pizzas, Italian-American","Shahdara, Shahdara",--,Too Few Ratings,₹ 200
+Zaika Chicken Biryani,"Biryani, North Indian","South Campus, SATYA NIKETAN",--,Too Few Ratings,₹ 200
+AAMA KO KITCHEN,"Chinese, Snacks","South Campus, South Campus",--,Too Few Ratings,₹ 300
+Foodies Point,"North Indian, Indian","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 350
+The Cake Couture,Bakery,"South Extension, South Extension",--,Too Few Ratings,₹ 350
+MrFoodCrown,"Fast Food, Italian","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 200
+Aar Par Fast Food & Pizza Junction,"Pizzas, North Indian","Shahdara, Shahdara",--,Too Few Ratings,₹ 150
+Humpty Dumpty (Rice Bowl & Momos) ,"Chinese, Biryani","South Extension, South Extension",--,Too Few Ratings,₹ 99
+WAGH BAKRI TEA LOUNGE,"Fast Food, Beverages","Kirti Nagar, Kirti Nagar",--,Too Few Ratings,₹ 500
+CHINESE WOW,"Chinese, Asian","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+BIRYANI TALES,Biryani,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Kitchen & Chicken,"Opens next at 11 am, tomorrowChinese","South Extension 2, South Extension Ii",--,Too Few Ratings,₹ 300
+ADAE HAANDI,"Indian, Chinese","South Campus, South Campus",--,Too Few Ratings,₹ 800
+ABONGZAA,"Continental, Chinese","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 250
+Food on mood,Indian,"GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 150
+Bella Rossa,"Indian, Tandoor","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 1100
+Mama's Buoi,"Continental, Beverages","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 500
+Sub Singh,"Salads, Beverages","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 500
+Cafe Taurtilla,"Fast Food, Chinese","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 300
+Daadi Ki Rasoi,"Fast Food, Beverages","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 250
+Katyal Fast Food,"North Indian, Indian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+The shake cafe,Beverages,"Laxmi Nagar, Geeta colony",--,Too Few Ratings,₹ 200
+YO YO MOMOS,Tibetan,"Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 99
+Nice Pizza Point,"Pizzas, Fast Food","Shahdara, Laxmi Nagar",--,Too Few Ratings,₹ 300
+YAARA DI KITCHEN,"Indian, Chinese","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 299
+RDX RELOADED,"Indian, Chinese","Safdarjung Enclave, Safdarjung Enclave",--,Too Few Ratings,₹ 500
+Food Time,"Chinese, Indian","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 200
+Kitchen 65,"Fast Food, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Sandwich Mcenza!,"Fast Food, Snacks","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 150
+PURANIDELHI6ZAIKA MUGHLAI FOODS,"North Indian, Chinese","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 250
+O pizza,Pizzas,"Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 200
+Yo Anna Food,"South Indian, Beverages","South Campus, R.K Puram",--,Too Few Ratings,₹ 300
+YAARA DI KITCHEN,"Indian, Chinese","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 299
+RDX RELOADED,"Indian, Chinese","Safdarjung Enclave, Safdarjung Enclave",--,Too Few Ratings,₹ 500
+Food Time,"Chinese, Indian","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 200
+Kitchen 65,"Fast Food, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Sandwich Mcenza!,"Fast Food, Snacks","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 150
+PURANIDELHI6ZAIKA MUGHLAI FOODS,"North Indian, Chinese","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 250
+O pizza,Pizzas,"Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 200
+La mandarin,Chinese,"GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 300
+Funky Paratha,"North Indian, Indian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+Dady Cool Shake & Ice Cream Parlour,"Ice Cream, Desserts","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 200
+The Branch Cafe,"Italian, Asian","South Ex 2, South Extension Ii",--,Too Few Ratings,₹ 800
+Old skool,Beverages,"GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 200
+Gourmet Couch by ITC Hotels,"Indian, Italian","South Campus, Chanakyapuri",--,Too Few Ratings,₹ 1000
+Negi Dhaba,North Indian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+Shakes Haveli,"Beverages, Chaat","vijay nagar, Kalyan Vihar",--,Too Few Ratings,₹ 150
+YO YO MOMOS,Tibetan,"Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 99
+Nice Pizza Point,"Pizzas, Fast Food","Shahdara, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Yo Anna Food,"South Indian, Beverages","South Campus, R.K Puram",--,Too Few Ratings,₹ 300
+YAARA DI KITCHEN,"Indian, Chinese","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 299
+RDX RELOADED,"Indian, Chinese","Safdarjung Enclave, Safdarjung Enclave",--,Too Few Ratings,₹ 500
+Food Time,"Chinese, Indian","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 200
+Kitchen 65,"Fast Food, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Sandwich Mcenza!,"Fast Food, Snacks","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 150
+PURANIDELHI6ZAIKA MUGHLAI FOODS,"North Indian, Chinese","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 250
+O pizza,Pizzas,"Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 200
+Funky Paratha,"North Indian, Indian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+Dady Cool Shake & Ice Cream Parlour,"Ice Cream, Desserts","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 200
+The Branch Cafe,"Italian, Asian","South Ex 2, South Extension Ii",--,Too Few Ratings,₹ 800
+Old skool,Beverages,"GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 200
+Gourmet Couch by ITC Hotels,"Indian, Italian","South Campus, Chanakyapuri",--,Too Few Ratings,₹ 1000
+Negi Dhaba,North Indian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+Sugar Room,"Bakery, Desserts","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 200
+APNA CHULHA,"Indian, Thalis","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 280
+Momo Mom by Oriental Mom,"Pan-Asian, Tibetan","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 400
+GolgapppaG,"Chaat, Snacks","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 240
+Desi Kulfi,"Ice Cream, Desserts","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 200
+OPTIMUM TASTY BITE,"Fast Food, Italian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Cream & Berry - Premium Ice Cream,"Bakery, Ice Cream","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 200
+biryani by kimo,Biryani,"Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 450
+Singh Chicken Corner,Indian,"Kirti nagar, kirti nagar",--,Too Few Ratings,₹ 200
+Manisha's Bakery 24x7,"Bakery, Desserts","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+OHB PIZZA,Pizzas,"Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 200
+Optimum Quick Bites,"Indian, Pizzas","Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 250
+Curries and Tikkaas,"Indian, Chinese","Greater Kailash 2, Lajpat Nagar",--,Too Few Ratings,₹ 400
+The Chaap Street,North Indian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+CHOCO CRAVE,Closes soonBakery,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 500
+Kurry Kingdom,"North Indian, Burgers","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 150
+GolgapppaG,"Chaat, Snacks","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 240
+Desi Kulfi,"Ice Cream, Desserts","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 200
+OPTIMUM TASTY BITE,"Fast Food, Italian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Cream & Berry - Premium Ice Cream,"Bakery, Ice Cream","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 200
+biryani by kimo,Biryani,"Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 450
+Singh Chicken Corner,Indian,"Kirti nagar, kirti nagar",--,Too Few Ratings,₹ 200
+Manisha's Bakery 24x7,"Bakery, Desserts","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+OHB PIZZA,Pizzas,"Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 200
+Optimum Quick Bites,"Indian, Pizzas","Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 250
+Curries and Tikkaas,"Indian, Chinese","Greater Kailash 2, Lajpat Nagar",--,Too Few Ratings,₹ 400
+The Chaap Street,North Indian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+CHOCO CRAVE,Closes soonBakery,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 500
+Kurry Kingdom,"North Indian, Burgers","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 150
+Optimum hunger bites,Pizzas,"Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 200
+Standard Cake Shop,"Bakery, Fast Food","Baljeet Nagar, Baljeet Nagar",--,Too Few Ratings,₹ 350
+Punjabi Cafe,"North Indian, Chinese","Metro Polex Mall, Swasthya Vihar",--,Too Few Ratings,₹ 400
+Singh Chicken Corner,Indian,"Kirti nagar, kirti nagar",--,Too Few Ratings,₹ 200
+Manisha's Bakery 24x7,"Bakery, Desserts","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+OHB PIZZA,Pizzas,"Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 200
+Optimum Quick Bites,"Indian, Pizzas","Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 250
+Curries and Tikkaas,"Indian, Chinese","Greater Kailash 2, Lajpat Nagar",--,Too Few Ratings,₹ 400
+The Chaap Street,North Indian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+Kurry Kingdom,"North Indian, Burgers","GTB Nagar, GTB Nagar",--,Too Few Ratings,₹ 150
+Optimum hunger bites,Pizzas,"Laxmi Nagar, Geeta Colony",--,Too Few Ratings,₹ 200
+Standard Cake Shop,"Bakery, Fast Food","Baljeet Nagar, Baljeet Nagar",--,Too Few Ratings,₹ 350
+Punjabi Cafe,"North Indian, Chinese","Metro Polex Mall, Swasthya Vihar",--,Too Few Ratings,₹ 400
+Idiot Cakes,Bakery,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Mealful Rolls - Meals in a Roll,"Fast Food, North Indian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+Pizza Lover,"Pizzas, Fast Food","shakarpur delhi, Laxmi Nagar",--,Too Few Ratings,₹ 600
+Fuel Juice Bar,"Juices, Beverages","HAUZ KHAS, south-extension Part 2",--,Too Few Ratings,₹ 200
+Murthal Xpress,"North Indian, Tandoor","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Ice Cream House,"Ice Cream, Biryani","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 300
+BBA FAST FOOD WALA,"Chinese, Fast Food","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 150
+THE ROYAL BIRYANI,Biryani,"PATEL NAGAR, west patel nagar",--,Too Few Ratings,₹ 500
+Sethi's Restaurant,"North Indian, Chinese","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 350
+Maa ki khichdi,"North Indian, Healthy Food","South Extension, South Extension",--,Too Few Ratings,₹ 250
+Jenny's Brownies,"Bakery, Desserts","South Extension, South Extension",--,Too Few Ratings,₹ 250
+Miami Shakes & More,"Desserts, Beverages","South Extension, South Extension",--,Too Few Ratings,₹ 200
+Prija Cafe (Helly and Chilly),"Fast Food, Pizzas","South Extension, South Extension",--,Too Few Ratings,₹ 150
+GIVOWN FOODS,Chinese,"Lajpat Nagar, Greater Kailash 2",--,Too Few Ratings,₹ 200
+Satvik Rasoi,Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 220
+Kumar's Annapurna,"North Indian, Chinese","Sher Singh Bazar, Delhi",--,Too Few Ratings,₹ 250
+Cake N Pastries,Bakery,"Dr. Ambedkar Road, Kirti Nagar",--,Too Few Ratings,₹ 200
+BURGER TOWN,"Beverages, Continental","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+SARDAR JI MAGGIE WALE,"Fast Food, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+FOOD PORN,"Chinese, Fast Food","South Campus, South Campus",--,Too Few Ratings,₹ 300
+LUMINOUS WOK,Chinese,"South Campus, South Campus",--,Too Few Ratings,₹ 250
+DRAGONFLY CHINA,"Chinese, Fast Food","South Campus, South Campus",--,Too Few Ratings,₹ 250
+Jenny's Brownies,"Bakery, Desserts","South Extension, South Extension",--,Too Few Ratings,₹ 250
+Miami Shakes & More,"Desserts, Beverages","South Extension, South Extension",--,Too Few Ratings,₹ 200
+Prija Cafe (Helly and Chilly),"Fast Food, Pizzas","South Extension, South Extension",--,Too Few Ratings,₹ 150
+GIVOWN FOODS,Chinese,"Lajpat Nagar, Greater Kailash 2",--,Too Few Ratings,₹ 200
+Satvik Rasoi,Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 220
+Kumar's Annapurna,"North Indian, Chinese","Sher Singh Bazar, Delhi",--,Too Few Ratings,₹ 250
+Cake N Pastries,Bakery,"Dr. Ambedkar Road, Kirti Nagar",--,Too Few Ratings,₹ 200
+BURGER TOWN,"Beverages, Continental","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+SARDAR JI MAGGIE WALE,"Fast Food, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+FOOD PORN,"Chinese, Fast Food","South Campus, South Campus",--,Too Few Ratings,₹ 300
+LUMINOUS WOK,Chinese,"South Campus, South Campus",--,Too Few Ratings,₹ 250
+DRAGONFLY CHINA,"Chinese, Fast Food","South Campus, South Campus",--,Too Few Ratings,₹ 250
+CUISINE QI,Chinese,"South Campus, South Campus",--,Too Few Ratings,₹ 250
+Gopala,"Sweets, Desserts","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Shinchann Cafe,"Chinese, Fast Food","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 400
+chicago burger,"Indian, Italian","Laxmi Nagar, Nirman Vihar",--,Too Few Ratings,₹ 150
+Pizza Boom,"Opens next at 2 pm, tomorrowItalian, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Vindhwashni Bakers Confectioner & Florist,"Bakery, Desserts","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Shel Food Cafe,"North Indian, Indian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+MEHAK FOODS,"Indian, Beverages","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Pizza Door,"Italian, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Cake 24x7,Bakery,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 500
+Pizza 7 Days,"Opens next at 2 pm, tomorrowItalian, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+AL AMIN CHICKEN AND MUTTON,"North Indian, Indian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Big Fat Cafe,"Opens next at 2 pm, tomorrowItalian, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Rashid Biryani Plaza,"Opens next at 12 noon, tomorrowBiryani","RAMESH PARK, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Hot Chilli Chinese Food,"Chinese, Burgers","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 300
+The cake bakery,Bakery,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Shakes Cyclone,"Italian, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Super Burgers (Exotic and Healthy),Fast Food,"Baljeet nagar, Baljeet nagar",--,Too Few Ratings,₹ 250
+Coffee waala,Beverages,"South Extension, South Extension",--,Too Few Ratings,₹ 200
+Maggi Hut,"Opens next at 2 pm, tomorrowItalian, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Khan roll wala,Snacks,"Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 350
+Sardar Ji Meat Wale,North Indian,"Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 300
+HIBBOZ,"Pizzas, Burgers","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 300
+Food Singh - Taste Of Punjab,"North Indian, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Thande Ka Fanda,Beverages,"LajpatNagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+Vaango,"Indian, Punjabi","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Purewow,"North Indian, South Indian","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 300
+ROYAL PIZZA,"Pizzas, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+BURGER'S WORLD,"Pizzas, Continental","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+The sandwich castle,"Snacks, Fast Food","Laxmi Nagar, Nirman Vihar",--,Too Few Ratings,₹ 200
+Desi Ghee Ka Khana,"North Indian, Beverages","Bhogal, Lajpat Nagar",--,Too Few Ratings,₹ 150
+Veeru Dhaba,North Indian,"Lajpat Nagar 1, Lajpat Nagar",--,Too Few Ratings,₹ 300
+Ask Cake Shop,Bakery,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 350
+Vindhwashni Bakers Confectioner & Florist,"Bakery, Desserts","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Shel Food Cafe,"North Indian, Indian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+MEHAK FOODS,"Indian, Beverages","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Bakery by Foodhall,"Bakery, Desserts","South Campus, Chanakyapuri",--,Too Few Ratings,₹ 250
+Swaad Restaurant,North Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Annapurna Food Corner,"Chinese, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 150
+Food Paradise,"American, Continental","Ganesh Nagar, Patparganj",--,Too Few Ratings,₹ 500
+Pizza Combo,"Opens next at 2 pm, tomorrowItalian, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Monginis,"Bakery, Desserts","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Sushi and More,Japanese,"South Campus, Chanakyapuri",--,Too Few Ratings,₹ 1000
+Xoco chocolates by Foodhall,Desserts,"South Campus, Chanakyapuri",--,Too Few Ratings,₹ 300
+Nanha Punjab,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 350
+MARWADI PARATHA HOUSE,"North Indian, Combo","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+Shakes N Fries,"Beverages, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Chinese Monkey,"Chinese, Pan-Asian","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 200
+Chinese Town,"Chinese, Pan-Asian","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+The Great Wok Of China,Chinese,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+THE CHILLOUT,"Burgers, Chinese","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 300
+Pizza Best,"Opens next at 11 am, tomorrowItalian","South Extension, South Extension I",--,Too Few Ratings,₹ 200
+Cafe by Foodhall,"Continental, Desserts","Yashwant Palace, Chanakyapuri",--,Too Few Ratings,₹ 1100
+Roll Addiction,Fast Food,"Mayur Vihar, Ganesh Nagar",--,Too Few Ratings,₹ 150
+ROYCE' Chocolate,Desserts,"The Chanakya, Chanakyapuri",--,Too Few Ratings,₹ 750
+Romeo Lane,Continental,"Lajpat Nagar, Defence Colony",--,Too Few Ratings,₹ 1000
+Bakery by Foodhall,"Bakery, Desserts","South Campus, Chanakyapuri",--,Too Few Ratings,₹ 250
+Swaad Restaurant,North Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Annapurna Food Corner,"Chinese, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 150
+Food Paradise,"American, Continental","Ganesh Nagar, Patparganj",--,Too Few Ratings,₹ 500
+Pizza Combo,"Opens next at 2 pm, tomorrowItalian, Pizzas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 400
+Monginis,"Bakery, Desserts","Ashok Vihar, Ashok Vihar",--,Too Few Ratings,₹ 300
+Sushi and More,Japanese,"South Campus, Chanakyapuri",--,Too Few Ratings,₹ 1000
+Xoco chocolates by Foodhall,Desserts,"South Campus, Chanakyapuri",--,Too Few Ratings,₹ 300
+Nanha Punjab,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 350
+MARWADI PARATHA HOUSE,"North Indian, Combo","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+Shakes N Fries,"Beverages, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Chinese Monkey,"Chinese, Pan-Asian","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 200
+Chinese Town,"Chinese, Pan-Asian","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+The Great Wok Of China,Chinese,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+THE CHILLOUT,"Burgers, Chinese","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 300
+Pizza Best,"Opens next at 11 am, tomorrowItalian","South Extension, South Extension I",--,Too Few Ratings,₹ 200
+Paratha Singh,Indian,"Janakpuri, Janakpuri",--,Too Few Ratings,₹ 100
+Wat A Paratha,"North Indian, Indian","Janakpuri, Janakpuri",--,Too Few Ratings,₹ 100
+Midnight Paratha Junction,"North Indian, Indian","Janakpuri, Janakpuri",--,Too Few Ratings,₹ 100
+Takeout Cafe,"Cafe, Snacks","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Love At First Bite,Desserts,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+INOX,Snacks,"DELHI EROS JANGPURA, Block H",--,Too Few Ratings,₹ 400
+Pizza Burger Wala,"Opens next at 11 am, tomorrowItalian","South Extension, South Extension I",--,Too Few Ratings,₹ 200
+HUNGERFOX FOODS PRIVATE LIMITED,"Indian, Kebabs","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 150
+Make My Thali,"Chinese, Pastas","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Ghar ka Khana,"North Indian, Punjabi","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+MR MOMOS,"Chinese, North Indian","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+KCROASTERS by Koinonia,Beverages,"South Campus, Chanakyapuri",--,Too Few Ratings,₹ 300
+Sticky Rice,"Asian, Pan-Asian","South Extension, South Extension",--,Too Few Ratings,₹ 1000
+Mannat Restaurant,Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Indian Flavours Dhaba,"North Indian, Chinese","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 250
+Arya Food & Baker,"Bakery, Italian","South Extension, South Extension",--,Too Few Ratings,₹ 400
+HOUSE OF AWADH,"Biryani, North Indian","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 600
+Mr. Pandit Ji Parantha Hut,North Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 100
+Dirty Dough Pizza By Moets,"Pizzas, Pastas","South Extension, South Extension",--,Too Few Ratings,₹ 500
+China Town Sizzlers,"Chinese, Tibetan","Yashwant Place, Chanakyapuri",--,Too Few Ratings,₹ 500
+Noto Healthy Ice Cream,"Ice Cream, Desserts","Khan Market, Khan Market",--,Too Few Ratings,₹ 250
+Chinese Garden,Chinese,"South Campus, Yashwant Place",--,Too Few Ratings,₹ 300
+GOLDEN DRAGON,"North Indian, Snacks","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+Pizza Like Pizza,"Opens next at 11 am, tomorrowNorth Indian, Pizzas","South Extension, South Extension I",--,Too Few Ratings,₹ 200
+Pal Refreshment Corner,"North Indian, Chinese","Jangpura Extension Market, New Lajpat Nagar",--,Too Few Ratings,₹ 300
+CYBER FOOD,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Radhe Radhe Foods,"Indian, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+YO PAAJI FOODS,"Indian, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Indoo himalaya chinese fast food,"Chinese, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 180
+Pizza RP,"Pizzas, American","Laxmi Nagar, Shakarpur Khas",--,Too Few Ratings,₹ 200
+Singh's veg grill,"Chinese, Punjabi","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+TVF - The Vegan Factory,Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+GOOD MORNING CAFE,"North Indian, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 350
+Italy Burger,Fast Food,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Paaji Tandoori Junction,"North Indian, Chinese","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 300
+Singh Fast Food,"Chinese, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+Anything But Sugar,"Sweets, Bakery","Defence Colony,near Twenty Four Seven & Apple Store, South extension",--,Too Few Ratings,₹ 400
+Hungerout Pizza,"Pizzas, Italian","Rohini, NSP",--,Too Few Ratings,₹ 350
+LAGUNA SIZZLERS,"Chinese, Asian","South Campus, Chanakyapuri",--,Too Few Ratings,₹ 300
+AGNEE PIZZA,Pizzas,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 100
+Kulfi villa,"Beverages, Sweets","Mayur Vihar, Mayur Vihar",--,Too Few Ratings,₹ 150
+Sushi Junction,"Sushi, Japanese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 1100
+Chinese Chilli,"Continental, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+The Food Joint,Fast Food,"vijay block, Laxmi Nagar",--,Too Few Ratings,₹ 200
+The Chinese Kafei,Chinese,"Vijay block,LaxmiNagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+FRUITTO FRESH,Beverages,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+CHAAP ADDA,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+Daebak Cafe - Delight In Every Bite,Korean,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 600
+PARANTHA IN DESI GHEE,"North Indian, Desserts","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 150
+Food Factory,North Indian,"vijay block ,gopala complex,LaxmiNagar ,New Delhi, Laxmi Nagar",--,Too Few Ratings,₹ 250
+CHINEESE DRAGON,"Chinese, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 250
+PIZZA INDIANS,"Pizzas, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Assam food stall,"North Indian, Chinese","South Extension, South Extension",--,Too Few Ratings,₹ 500
+Chandni Chowk Paratha Corner,"Indian, Punjabi","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+Pizza Junction,"Pizzas, Italian","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Pasta By Eataliano,Pastas,"Nagar, Laxmi",--,Too Few Ratings,₹ 200
+Bake n Shake,"Pizzas, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+The cake n cafe,Bakery,"Laxmi Nagar, Shakarpur Khas",--,Too Few Ratings,₹ 399
+The Food Maharaja,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+The Burger Company,"Burgers, Beverages","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+The Pizza Villa,"Pizzas, Burgers","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Quick Pizza,"Italian, Pizzas","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Rock N Roll Pizza,"Pizzas, Burgers","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+SPICY VALLEY,"North Indian, Chinese","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 300
+Paddler,"Pizzas, Beverages","LAXMI NAGAR, LAXMI NAGAR",--,Too Few Ratings,₹ 150
+Pizza King,Turkish,"Nagar, Laxmi",--,Too Few Ratings,₹ 200
+Pizza Heavens,"Pizzas, Italian","Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 250
+Mini Cafe,"Italian, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 500
+PANDIT JI PARATHA HUT,Indian,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 100
+My Punjab,Indian,"South Extension, Hauz Khas",--,Too Few Ratings,₹ 500
+Cool Chinese Hut,"Chinese, Snacks","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+SIMP-sauce In My Pizza,Fast Food,"Nagar, Laxmi",--,Too Few Ratings,₹ 200
+Sizzling Saucers,"Chinese, Fast Food","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 450
+Jain's Pizza Shakarpur,"Pizzas, Italian","Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 200
+PIZZA DELIGHT,Italian,"Lajpat Nagar, Lajpat Nagar",--,Too Few Ratings,₹ 200
+Growmor- The Cake Series,Bakery,"Laxmi Nagar, Laxmi Nagar",--,Too Few Ratings,₹ 100
