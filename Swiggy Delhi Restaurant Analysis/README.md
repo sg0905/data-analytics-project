@@ -17,6 +17,7 @@ The dataset contains 912 rows and 6 columns, with the following fields:
 **rating:** Restaurant rating (e.g., 4.7, 4.6, or -- for too few ratings)  
 
 **num_of_rating:** Number of ratings (e.g., 50+ ratings, 1K+ ratings, or Too Few Ratings)  
+
 **price_for_two:** Price for two people (e.g., ₹200, ₹500) 
 
 
@@ -31,7 +32,7 @@ The dataset contains 912 rows and 6 columns, with the following fields:
 
 
   
-  ### **Preprocessing
+  ### **Preprocessing**
 
   Before analyzing the Swiggy restaurant dataset, several preprocessing steps were performed to ensure data quality and relevance:  
 
@@ -39,7 +40,7 @@ The dataset contains 912 rows and 6 columns, with the following fields:
 
 **Identify Most Visited Locations:** An analysis was conducted to identify the locations with the highest number of restaurants. This helps in understanding the most popular areas for dining in Delhi.  
 
-**Determine Preferred Cuisines: **The dataset was analyzed to find out which cuisines are most preferred by customers based on the number of restaurants available for each cuisine type.  
+**Determine Preferred Cuisines:** The dataset was analyzed to find out which cuisines are most preferred by customers based on the number of restaurants available for each cuisine type.  
 
 **Find Best Cuisine by Rating and Location:** To determine the best cuisine in terms of ratings within each location, a grouped analysis was performed, calculating the average rating for each cuisine type across different locations.  
 
@@ -50,7 +51,7 @@ Data visualization was performed using Plotly Express to create insightful graph
 
 **Top 9 Locations by Cuisine:** A bar plot was created to visualize the top 9 locations with respect to the number of cuisines available. This visualization helps to identify areas with diverse dining options.  
 
-**Top 15 Restaurants: **A bar chart displaying the top 15 restaurants based on ratings was generated to showcase the highest-rated establishments in the dataset, providing valuable insights for potential customers.  
+**Top 15 Restaurants:** A bar chart displaying the top 15 restaurants based on ratings was generated to showcase the highest-rated establishments in the dataset, providing valuable insights for potential customers.  
 
 **Count vs Cost for Two People:** A scatter plot was created to visualize the relationship between the count of restaurants and the cost for two people. This visualization highlights pricing trends in the restaurant industry, helping consumers make informed decisions.  
 
