@@ -1,4 +1,4 @@
-****Food Reorder Prediction****
+#**Food Reorder Prediction**#
 
 This project focuses on predicting the likelihood of customers placing repeat orders, which can be highly beneficial for food delivery companies like Swiggy, Uber Eats, and Zomato. By leveraging customer data, including demographics, location, and feedback, companies can gain deeper insights into customer preferences and behaviors. This helps refine marketing strategies, boost customer retention, and improve overall user experience. Additionally, identifying high-demand regions can assist in better resource allocation, optimizing delivery routes, and improving delivery times. Such predictive analytics enhance operational efficiency and give companies a competitive advantage in the dynamic food delivery market.
 
