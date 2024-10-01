@@ -1,11 +1,11 @@
 # **Food Reorder Prediction**
 
-This project focuses on predicting the likelihood of customers placing repeat orders, which can be highly beneficial for food delivery companies like Swiggy, Uber Eats, and Zomato. By leveraging customer data, including demographics, location, and feedback, companies can gain deeper insights into customer preferences and behaviors. This helps refine marketing strategies, boost customer retention, and improve overall user experience. Additionally, identifying high-demand regions can assist in better resource allocation, optimizing delivery routes, and improving delivery times. Such predictive analytics enhance operational efficiency and give companies a competitive advantage in the dynamic food delivery market.
+This project focuses on predicting the likelihood of customers placing repeat orders, which can be highly beneficial for food delivery companies like Swiggy, Uber Eats, and Zomato. By leveraging customer data, including demographics, location, and feedback, companies can gain deeper insights into customer preferences and behaviors. This helps refine marketing strategies, boost customer retention, and improve overall user experience. Additionally, identifying high-demand regions can assist in better resource allocation, optimizing delivery routes, and improving delivery times. Such predictive analytics enhance operational efficiency and give companies a competitive advantage in the dynamic food delivery market.  
 
 
 ## **About the Dataset**
 
-The dataset comprises information from customers who use online food delivery services. It includes data on demographics, geographical locations, and customer feedback related to their food ordering experience. The dataset can be analyzed to understand customer behavior, identify high-demand locations, and improve delivery times by strategically allocating delivery partners.
+The dataset comprises information from customers who use online food delivery services. It includes data on demographics, geographical locations, and customer feedback related to their food ordering experience. The dataset can be analyzed to understand customer behavior, identify high-demand locations, and improve delivery times by strategically allocating delivery partners.  
 
 ## **Columns and Descriptions**
 
@@ -31,36 +31,38 @@ The dataset comprises information from customers who use online food delivery se
 ## **Data Preprocessing**
 
 
-**Choosing Required Columns:** Only the necessary columns relevant to the prediction task were selected.
-**Handling Null Values:** Missing data was addressed using appropriate strategies.
+**Choosing Required Columns:** Only the necessary columns relevant to the prediction task were selected.  
+**Handling Null Values:** Missing data was addressed using appropriate strategies.  
 
 ## **Handling Specific Attributes:**
-**Age:** Processed and binned into categories for better analysis.
-**Gender:** Categorical values were encoded.
-**Marital Status:** Converted to numerical format for modeling.
-**Occupation:** Encoded based on types of occupation.
-**Monthly Income:** Handled for better representation in the model.
-**Educational Qualifications:** Transformed into a numerical format.
-**Feedback:** Feedback data was cleaned and encoded.
-**Pin Code:** Processed to extract useful information about location.
-**Output:** Binary classification target indicating whether the customer will reorder.
-**Data Splitting:** The dataset was split into training and testing sets.00
-**Oversampling:** Oversampling techniques (such as SMOTE) were applied to handle class imbalance.
-Machine Learning Models
-
-## **Several machine learning models were tested to find the best performer:**
+**Age:** Processed and binned into categories for better analysis.  
+**Gender:** Categorical values were encoded.  
+**Marital Status:** Converted to numerical format for modeling.  
+**Occupation:** Encoded based on types of occupation.  
+**Monthly Income:** Handled for better representation in the model.  
+**Educational Qualifications:** Transformed into a numerical format.  
+**Feedback:** Feedback data was cleaned and encoded.  
+**Pin Code:** Processed to extract useful information about location.  
+**Output:** Binary classification target indicating whether the customer will reorder.  
+**Data Splitting:** The dataset was split into training and testing sets.  
+**Oversampling:** Oversampling techniques were applied to handle class imbalance.  
 
 
-**Decision Tree:** Simple and interpretable, but not the best accuracy.
-**Random Forest:** Provided the highest accuracy among all models.
-**SVM (Support Vector Machine):** Strong performance, but not as accurate as Random Forest.
-**XGBoost Classifier:** Powerful model but slightly less accurate than Random Forest.
+## **Machine Learning Models**  
+
+**Several machine learning models were tested to find the best performer:**  
+
+
+**Decision Tree:** Simple and interpretable, but not the best accuracy.  
+**Random Forest:** Provided the highest accuracy among all models.  
+**SVM (Support Vector Machine):** Strong performance, but not as accurate as Random Forest.  
+**XGBoost Classifier:** Powerful model but slightly less accurate than Random Forest.  
 
 ## **Best Performing Model**
-**Random Forest:** Achieved the highest accuracy in predicting repeat orders.
+**Random Forest:** Achieved the highest accuracy in predicting repeat orders.  
 
 **Model Testing**
-After training, the Random Forest model was tested on unseen data to evaluate its performance.
+After training, the Random Forest model was tested on unseen data to evaluate its performance.  
 
 **Data Preprocessor Design**
-A custom data preprocessor was designed to handle new inputs efficiently, ensuring the data pipeline is streamlined for future predictions.
+A custom data preprocessor was designed to handle new inputs efficiently, ensuring the data pipeline is streamlined for future predictions.  
