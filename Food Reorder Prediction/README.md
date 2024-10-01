@@ -33,7 +33,8 @@ The dataset comprises information from customers who use online food delivery se
 
 **Choosing Required Columns:** Only the necessary columns relevant to the prediction task were selected.
 **Handling Null Values:** Missing data was addressed using appropriate strategies.
-# **Handling Specific Attributes:**
+
+## **Handling Specific Attributes:**
 **Age:** Processed and binned into categories for better analysis.
 **Gender:** Categorical values were encoded.
 **Marital Status:** Converted to numerical format for modeling.
