@@ -61,8 +61,8 @@ The dataset comprises information from customers who use online food delivery se
 ## **Best Performing Model**
 **Random Forest:** Achieved the highest accuracy in predicting repeat orders.  
 
-**Model Testing**
+## **Model Testing**
 After training, the Random Forest model was tested on unseen data to evaluate its performance.  
 
-**Data Preprocessor Design**
+## **Data Preprocessor Design**
 A custom data preprocessor was designed to handle new inputs efficiently, ensuring the data pipeline is streamlined for future predictions.  
